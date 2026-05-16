@@ -43,9 +43,8 @@ class _HomePageState extends State<HomePage> {
                             "Atendimento",
                             "TeamViewer",
                             "Número de Série",
+                            "Instalação",
                             "Ruído no Sinal",
-                            "Cabeçalho / Laudo",
-                            "Impressão",
                             "Conectores",
                             "Esteira",
                             "Assinatura Digital",
@@ -101,8 +100,6 @@ class _HomePageState extends State<HomePage> {
                             "Ergo13",
                             "ErgoCP",
                             "ErgoMET",
-                            "Demo",
-                            "Atualizadores",
                           ],
                           onSubmenuClick: (titulo) {
                             setState(() {
@@ -145,13 +142,13 @@ class _HomePageState extends State<HomePage> {
                         Menutile(
                           titulo: "Configuração",
                           listaSubmenus: [
+                            "Configuração Inicial",
                             "Windows",
                             "Regedit",
                             "Performance",
                             "Impressão",
                             "Pressão Arterial",
                             "Aterramento",
-                            "Configuração Inicial",
                           ],
                           onSubmenuClick: (titulo) {
                             setState(() {
@@ -178,7 +175,6 @@ class _HomePageState extends State<HomePage> {
                           titulo: "Manutenção",
                           listaSubmenus: [
                             "Envio",
-                            "Formulário",
                             "Acompanhamento",
                             "Prazo",
                             "Diagnóstico",

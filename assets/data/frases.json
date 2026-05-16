@@ -1,2366 +1,257 @@
 [
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Podemos ajudar em mais alguma coisa?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Anotou? (esses dados vão sumir quando fecharmos o Suporte Remoto)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Numero do suporte: 9.9890-7226"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Se puder, avalie nosso suporte em nosso site em:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "https://www.hw.ind.br/depoimentos/"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "OBS: por favor *não* mande os acessórios (perinhas, cardioclips...)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Qualquer dúvida, entre em contato com *Edi*: (31)3461-7226, e-mail: atendimento@hw.ind.br, Cel/WhatsApp: (31)9.9711-7226 (horário comercial)."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "3- Conecte no amplificador"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Número de série EC: ECGV6"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Número de série EC e inicia com 11: ECGV11-6"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Número de série TE: Ergo13"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Número de série TP: ErgoCP"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Número de série TC: ErgoMET13"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Número de série inicia com 200 e é uma caixa metalica: produto da linha 98, não posso dar nenhum tipo de suporte exceto restaurar a base de dados EM UM PRODUTO NOVO (Pode ser nescessario fazer uma conversão)."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Vocês vão restaurar alguma base de dados com exames antigos ou começar do zero?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Manuais"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "---------------------------------------------Recuperação de banco de dados----------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "5 - executar o ChecaTab apenas nas tabelas basicas e apenas verificar"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "------------------------------------------------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "----------------------------------------------------Sinal com ruido--------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Esta utilizando gel de ultrassom?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|Sim: Pedir ao cliente para limpar o gel e realizar o exame novamente."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|Não: O ruido é observado em apenas uma derivação?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|\tSim: |A derivação é precordial (V1-V6 e MA)?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|\t     |\tSim: Pedir ao cliente para pegar o rabicho cuja derivação esta com o ruido e trocar por outro que nao esteja com ruido."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|\t     |\t\tO ruido mudou de derivação?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|\tNão: O ruido é observado em todas as derivações?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|\tSim: É possivel testar com outro cabo, ou trocando os rabichos vermelho (RA) e preto (TL)?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "|\t     | Sim: Apos a troca o problema permaneceu?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "------------------------------------------------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "----------------------------------------------------HeartWare Device----------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Número do whatsApp: 31 9890-7226"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Um clique simples (não-duplo) em SOLUÇÃO DE PROBLEMAS"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "OPÇÕES AVANÇADAS"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "------------------------------------------------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "8.2 - Abrir 1 exame em máquinas diferentes ao mesmo tempo, e tentar abrir a mesma ficha de paciente ao mesmo tempo (ícone de uma pessoa)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "8.3 - Tentar abrir a ficha de anamnese em máquinas diferentes ao mesmo tempo (ícone de um estetoscópio)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "------------------------------------------------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Parece tudo ok"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- Selecione a pasta \"HW\""
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- Selecione a pasta \"Common\""
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- Passe o ID e Senha gerados para o WhatsApp (31) 9.9890-7226"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, me passe o número de série que está na etiqueta em baixo da caixinha azul onde o paciente é conectado. São duas letras seguidas de nove algarismos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Instale essas atualizações pendentes, reinicie o micro e, se o problema persistir, entre em contato novamente."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, leia o Certificado de Garantia e, se concordar, clique em \"Aceito\" e mande avançar."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher ambos. O número de série é aquele que está na etiqueta na parte inferior da caixinha azul, são duas letras seguidas de nove algarismos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher ambos. O número de série é aquele da foto que você enviou."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher ambos. O número de série está na etiqueta na parte inferior da caixinha azul, são duas letras seguidas de nove algarismos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher os dois."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, não clique no botão AVANÇAR, quero copiar essas informações antes de prosseguir."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
+    "subcategoria": "Atendimento",
     "texto": "Preciso de alguém na frente do micro para dar suporte."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
+    "subcategoria": "Atendimento",
     "texto": "Preciso de alguém na frente do micro para esse suporte. Quando puder, entre em contato pelo WhatsApp (31) 9.9890-7226."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
+    "subcategoria": "Atendimento",
     "texto": "Favor entrar em contato novamente quando puder ficar na frente do micro. Fone (31) 3461-7226 ou WhatsApp (31) 9.9890-7226."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
+    "subcategoria": "Atendimento",
     "texto": "Essa espera não é justa para com outros usuários que estão esperando atendimento. Você não gostaria se estivesse na fila esperando..."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Obrigado pelo contato, mas esse canal é apenas para *Suporte ao Usuário*."
+    "subcategoria": "Atendimento",
+    "texto": "Qualquer dúvida, entre em contato com *Edi*: (31)3461-7226, e-mail: atendimento@hw.ind.br, Cel/WhatsApp: (31)9.9711-7226 (horário comercial)."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Para acompanhar manutenções, entre em contato com *Edi*: (31)3461-7226, e-mail: atendimento@hw.ind.br, Cel/WhatsApp: (31)9.9711-7226 (horário comercial)."
+    "subcategoria": "Teamviewer",
+    "texto": "Por favor, feche esse TeamViewer e execute o TeamViewer que deve estar na pasta C:\\HW\\Common\\SuporteRemotoHW.exe ou, no programa da HW, em AJUDA > SUPORTE REMOTO. Assim que puder, mande os novos ID e Senha."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "para acompanhar envio/recebimento de equipamento via SEDEX a partir do número do objeto, use site dos correios: https://www2.correios.com.br/sistemas/rastreamento/"
+    "subcategoria": "Teamviewer",
+    "texto": "Você tem o TeamViewer instalado no micro?"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Obrigado. Agora, no mesmo cabo, faça o mesmo com o conector redondo da caixinha azul. Me avise quando tiver reconectado."
+    "subcategoria": "Teamviewer",
+    "texto": "- Feche qualquer outra versão do TeamViewer que porventura esteja aberta.\n- Na sua Área de Trabalho, abra o atalho 'Meu Computador' ou 'Este Computador' ou 'Computador' (depende de sua versão do Windows)\n\n- Selecione o disco C: (ou Windows - (C:) ou Disco Local (C:))\n- Selecione a pasta HW\n- Selecione a pasta Common\n- Dê um clique duplo no programa 'SuporteRemotoHW.exe' (requer acesso à internet)\n- Passe o ID e Senha gerados para o WhatsApp (31) 9.9890-7226"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, solte o conector redondo da caixinha azul. Me avise quando tiver feito."
+    "subcategoria": "Teamviewer",
+    "texto": "Reinicie o micro, rode o Suporte Remoto e mande o ID/Senha do TeamViewer para o WhatsApp (31) 9.9890-7226."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Observe o conector redondo do cabo: quantos pininhos METÁLICOS você vê?"
+    "subcategoria": "Teamviewer",
+    "texto": "O pessoal do TeamViewer faz uma 'sacanagem' com quem efetivamente compra o produto deles: pelo menos uma vez por ano sai uma nova versão, aí, quando a gente tenta conectar num cliente com essa nova versão, é mostrada uma mensagem dizendo que temos que atualizar a nossa, só que é muito caro comprar várias licenças para uso simultâneo... :-("
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Estão todos retos e do mesmo tamanho?"
+    "subcategoria": "Teamviewer",
+    "texto": "LINK PARA DOWNLOAD DO TEAMVIEWER QUICKSUPPORT: https://download.teamviewer.com/QS       (<<< COMEÇA DOWNLOAD DIRETO)"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, não mande foto... se está difícil pra você ver com o conector na mão, imagine para mim, com apenas uma foto! :-)"
+    "subcategoria": "Teamviewer",
+    "texto": "Se não tiver o TeamViewer instalado no seu micro, baixe o TeamViewer QuickSupport através desse link: https://download.teamviewer.com/QS       (<<< COMEÇA DOWNLOAD DIRETO)"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Tem alguma sujeira ou corrosão no conector?"
+    "subcategoria": "Teamviewer",
+    "texto": "Senha TeamViewer:\nUsuario: HW.Suporte\nSenha: SuporteHW1992!"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Ok. Pode reconectar delicadamente, mas garantindo que o conector vá até o fundo. Às vezes o conector esbarra na borda da caixinha. Me avise quando tiver reconectado."
+    "subcategoria": "Teamviewer",
+    "texto": "Não temos uma licença do AnyDesk para uso comercial. Sugerimos o uso do TeamViewer."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Deveriam ser 4 pinos metálicos (2+2) e um pino plástico mais grosso."
+    "subcategoria": "Teamviewer",
+    "texto": "Não temos uma licença do AnyDesk para uso comercial. Sugerimos o uso do TeamViewer."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Esse conector é semelhante ao usado em teclados (muda apenas o número de pinos) e tem uma guia metálica externa com três chanfros-guia e um pino-guia plástico interno para prevenir conexão incorreta."
+    "subcategoria": "Número de Série",
+    "texto": "Número de série EC: ECGV6\nNúmero de série EC e inicia com 11: ECGV11-6\nNúmero de série TE: Ergo13\nNúmero de série TP: ErgoCP\nNúmero de série TC: ErgoMET13\nNúmero de série inicia com 200 e é uma caixa metalica: produto da linha 98, não posso dar nenhum tipo de suporte exceto restaurar a base de dados EM UM PRODUTO NOVO (Pode ser nescessario fazer uma conversão)."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "É... parece que tem algo errado com o equipamento."
+    "subcategoria": "Número de Série",
+    "texto": "Por favor, me passe o número de série que está na etiqueta em baixo da caixinha azul onde o paciente é conectado. São duas letras seguidas de nove algarismos."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Você tem outro micro onde a gente pudesse fazer esse teste?"
+    "subcategoria": "Instalação",
+    "texto": "Por favor, leia o Certificado de Garantia e, se concordar, clique em 'Aceito' e mande avançar."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Selecione disco C:"
+    "subcategoria": "Instalação",
+    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher ambos. O número de série é aquele que está na etiqueta na parte inferior da caixinha azul, são duas letras seguidas de nove algarismos."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Abra a pasta HW"
+    "subcategoria": "Instalação",
+    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher ambos. O número de série é aquele da foto que você enviou."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Dentro da pasta HW, abra a pasta Common"
+    "subcategoria": "Instalação",
+    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher ambos. O número de série está na etiqueta na parte inferior da caixinha azul, são duas letras seguidas de nove algarismos."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Depois tente abrir o ECG novamente"
+    "subcategoria": "Instalação",
+    "texto": "Por favor, preencha esses dados. Pessoa Física ou Pessoa Jurídica (só o NOME, não precisa do CPF/CNPJ); não é necessário preencher os dois, mas se quiser pode preencher os dois."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "------------------------------------------------------------------------------------------------------------------------"
+    "subcategoria": "Instalação",
+    "texto": "Por favor, não clique no botão AVANÇAR, quero copiar essas informações antes de prosseguir."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Comando para não criar ponto de restauração"
+    "subcategoria": "Ruído no Sinal",
+    "texto": "Esta utilizando gel de ultrassom?\n|Sim: Pedir ao cliente para limpar o gel e realizar o exame novamente.\n|Não: O ruido é observado em apenas uma derivação?\n      |\tSim: |A derivação é precordial (V1-V6 e MA)?\n      |\t     |\tSim: Pedir ao cliente para pegar o rabicho cuja derivação esta com o ruido e trocar por outro que nao esteja com ruido.\n      |\t     |\t\tO ruido mudou de derivação?\n      |      | \t\t|\tSim: Pedir ao cliente para enviar o cabo paciente para manutenção.\n      |\t     |\t\t|\tNão: Pedir ao cliente para enviar o amplificador para manutenção.\n      |\t     |\tNão: Pedir o cliente para enviar o CONJUNTO amplificador + cabo paciente para manutenção.\n      |\tNão: O ruido é observado em todas as derivações?\n\t     |\tSim: É possivel testar com outro cabo, ou trocando os rabichos vermelho (RA) e preto (TL)?\n\t     |\t     | Sim: Apos a troca o problema permaneceu?\n\t     |\t\t    | Sim: Pedir o cliente para enviar o amplificador para manutenção.\n\t     |\t\t    | Não: Pedir ao cliente para enviar o cabo paciente para manutenção.\n\t     |\tNão: Pedir o cliente para enviar o CONJUNTO amplificador + cabo paciente para manutenção."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "/NO_RESTORE_POINT"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "------------------------------------------------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Utilizar o arquivo \"ergo_db_danificada.bat\""
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "\\DBPath:\"Caminho_Base_De_Dados\" /REMOTO"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "------------------------------------------------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "O caso de Ergometrias e Teste Cardiopulmonar tem outro agravante: normalmente, as esteiras desligam se não receberem comandos por mais 500 milisegundos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- CPU multi-core (i5 com 4 núcleos ou superior) com velocidade 3.0 GHz ou superior"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- 50 GB livres no disco rígido"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- Tela no formato 16:9 com resolução mínima de 1280x720 em 256 cores"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- Impressora compatível com o sistema operacional"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "- Se for o caso, portas seriais livres para controle de periféricos (esteira / cicloergômetro / analisador de gases / oxímetro de pulso)."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Existe alguma base de dados com exames antigos a ser recuperada ou vai recomeçar do zero? Se for começar do zero, além de perder os exames porventura já feitos, vai ter que recadastrar pacientes, médicos, convênios, etc..."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Vocês vão querer copiar a base de dados com os exames antigos para o micro novo?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Vai restaurar alguma base de dados com exames antigos ou começar do zero?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Se for para recuperar alguma base de dados, a hora é agora, senão vão haver duas bases de dados com exames que eventualmente precisarão ser unificadas. Essa unificação tem riscos (dependendo do estado das bases de dados) e custo."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "O custo para unificação é de R$200.00 *a primeira hora*, mais R$100.00 *por hora adicional*."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Deve-se SEMPRE observar as guias:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "1) metálica na lateral do conector;"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "2) plástica no interior, no meio dos pinos metálicos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Esse conector é MUITO parecido com o conector de mouse e teclado, não deveria haver tanto problema."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Um clique simples (não-duplo) em *SOLUÇÃO DE PROBLEMAS*"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "*OPÇÕES AVANÇADAS*"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "É da natureza de todo e qualquer defeito: num momento estava funcionando e no seguinte para de funcionar... é assim com lâmpadas, carros, celulares, TVs e... humanos! :-)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "O registro contínuo é um arquivo em separado de TODO o traçado eletrocardiográfico do paciente - do início da monitoração até o \"Pare\"; todos os registros (impressões) são copiados para um arquivo em separado."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Existe uma base de dados com os exames antigos a ser restaurada?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Vocês vão medir a Pressão Arterial quando registrarem o ECG? (pergunto isso porque aquela janela que pede a P.A. quando se registra o ECG pode ser desabilitada)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "O Sr. vai medir a Pressão Arterial quando registrar o ECG? (pergunto isso porque aquela janela que pede a P.A. quando se registra o ECG pode ser desabilitada)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "A impressão saiu ok? O milimetrado no fundo está bem visível?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Quer que os registros sejam enviados automaticamente para a impressora à medida que forem sendo feitos?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Quer configurar o cabeçalho do laudo?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Preencha ao menos a primeira linha, ela sai no rodapé dos traçados também."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "V"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Normalmente, na linha 1, em letras grandes vai o nome do médico/clínica/hospital."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Na linha 2, em letras médias, vão as especialidades, exames realizados, algum slogan ou nome do departamento."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Na linha 3, em letras pequenas, vão os dados de contato: endereço, telefone, WhatsApp, e-mail, etc..."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Acho interessante preencher, pois esse laudo circula entre médicos, administradores, pacientes e familiares... a ideia é vender o peixe! :-)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Exemplo:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 1: DR. FULANO DE TAL"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 2: Cardiologia Clínica"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Exemplo:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 1: Clínica do Coração"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 2: Cardiologia e Medicina do Esporte"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Exemplo:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 1: CardioMed"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 2: Medicina e Segurança do Trabalho"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Exemplo:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 1: Hospital Santo do Hospital"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 2: Departamento de Métodos Gráficos"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Linha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Tem uma logomarca que queira colocar na tela e/ou no cabeçalho do laudo? (pode ser de facebook ou site)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Copiei para a sua Área de Trabalho uma apostilinha (2 páginas com muitas figuras) explicando como fazer. Veja:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "HW Sistemas - HeartWare Ltda."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Av. Alphonsus de Guimarães, 115"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Bairro Santa Efigênia"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Belo Horizonte / MG"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "30270-020"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "HW Sistemas - HeartWare Ltda."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Av. Alphonsus de Guimarães, 115"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Bairro Santa Efigênia"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Belo Horizonte / MG"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "30270-020"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "VER TRAÇADOS EM ANEXO."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "ERRO DE COMUNICAÇÃO."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Anexe traçados impressos (DE PREFERÊNCIA IMPRESSOS SEM OS FILTROS), que mostrem bem o problema."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "--------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "OBS: por favor não mande os acessórios (perinhas, garras, cardioclips...)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "--------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, copie esses dados, pois essa janela vai sumir quando desconectarmos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Por favor, anote esse endereço, pois essa janela vai sumir quando desconectarmos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Da mesma forma que você não gostaria que passássemos alguém na sua frente, não podemos passar você na frente de ninguém - o processo é em estrita fila indiana."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "A primeira coisa a fazer é dar um compartilhamento TOTAL (controle, leitura e escrita) da pasta C:\\HW para todos usuários que precisem usar o sistema."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Qual é a MARCA e o MODELO da esteira?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "A esteira está pronta para um teste? (a esteira está ligada, configurada para \"conversar\" com o computador e o cabo de conexão conectado ao micro?)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "O que REALMENTE ocupa espaço, são os traçados, podemos apagar apenas o traçados, deixando os laudos de cada exame."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Essa interferência é típica de alta impedância entre a pele e o eletrodo. As diretrizes da Sociedade Brasileira de Cardiologia recomendam uma série de procedimentos mas, acho que no seu caso, bastaria uma limpeza com uma gaze embebida em álcool."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "HW Sistemas - HeartWare Ltda."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "CNPJ : 41.847.112/0001-60"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Banco Santander (033)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Agência 3477"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Conta 13001586-7"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Banco Sicoob/CrediFIEMG (756)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Agência 3330"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Conta 11161-9"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Vou desconectar para liberar banda na sua internet e melhorar a velocidade de download."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Reconecto em XX minutos. Se terminar de baixar antes, me avise pelo WhatsApp (31) 9.9890-7226. (anote o número pois vai sumir quando eu desconectar)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Me avise quando terminar de baixar no WhatsApp (31) 9.9890-7226. (anote o número pois vai sumir quando eu desconectar)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Solução de problemas"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Tenho outros clientes para dar suporte, e eles estão esperando com seus equipamentos parados. Você não ficaria muito feliz no lugar deles..."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "A equação para cálculo de aVF é: aVF = (II+III)/2; caso II e III sejam iguais mas com polaridade invertida (II = -III ou III = -II), a derivação resultaria isoelétrica, o que é parecido com o caso da foto. É normal isso acontecer em alguns pacientes, mas não em todos. Pela foto, parece que todas as periféricas estão um pouco diminuídas (o que pode ou não ser fisiológico) e esse padrão já se apresentava na foto que o Sr. mandou em 04/05/18. Supondo que não seja fisiológico, temos algumas possibilidades a verificar:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "1) oxidação/oleosidade nas conexões dos eletrodos/cardioclips com o cabo do ecg - basta checar e limpar as partes com uma gaze embebida em álcool;"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "2) se o Sr. usa gel condutor, alguns clientes têm reclamado da qualidade do mesmo e verificamos que tem se tornado razoavelmente comum a venda de gel de ultrassom como se fosse gel de ECG quando, na verdade, eles possuem propriedades elétricas opostas; sugerimos fazer alguns ECGs sem gel para testar essa hipótese;"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
+    "subcategoria": "Ruído no Sinal",
     "texto": "Por favor, verifique se o gel que está utilizando é para uso em ECG. O gel de ultrassom não serve para ECG pois impede a captação do sinal elétrico do ECG."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
+    "subcategoria": "Ruído no Sinal",
     "texto": "Caso não consiga identificar o tipo de gel, limpe bem os eletrodos e a pele do paciente faça um teste sem a aplicação de gel."
   },
   {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Bom... Vamos por partes.  A primeira coisa a se descobrir com certeza é qual hardware o Sr tem. Para isso, mande o NÚMERO DE SÉRIE que está na etiqueta na caixa onde o cabo do paciente é conectado. São duas letras seguidas de nove algarismos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Pelo número de série que você mencionou,"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Explique a situação e coloque o número de série vdo seu equipamento no e-mail."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Seu micro está com esse KMS instalado. Por favor, leia esse post do suporte da Microsoft:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Veja com com seu pessoal de informática se ele pode ser removido (altamente recomendável!)."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Uma GAMBIARRA que vc pode pedir para o seu eletricista fazer é o seguinte:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "peça para ele medir a tensão entre a carcaça da esteira e a carcaça do micro (medir em partes metálicas sem tinta)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": ". Essa tensão TEM que ser bem próximo de ZERO"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Será pedida uma senha e sua confirmação. ESSA"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "SENHA NÃO PODE SER ESQUECIDA POIS ELA NÃO É ARMAZENADA EM LUGAR ALGUM! NEM AQUI NA FÁBRICA PODEMOS RECUPERÁ-LA."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Um arquivo assinado só pode ser editado mediante digitação da senha do médico responsável."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Se a gente não se falar mais esse ano, um feliz Natal e um ótimo ano novo pra você e para os seus!!! :-)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Tome muito cuidado quando for fazer alguma correção no nome de um paciente. NUNCA altere o nome totalmente, por exemplo, de \"Fulano\" para \"Ciclano\" pois, se existir mais de um exame em nome de \"Fulano\", TODOS os exames passarão para o paciente \"Ciclano\", o que pode ter implicações clínicas sérias para os pacientes, para o médico responsável e para a clínica como um todo. Se precisar MUDAR o nome de um paciente (não apenas corrigir algum errinho de digitação), entre em contato conosco e para estudarmos as possibilidades remotamente. Ok?"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Toda vez que o conector da esteira é desconectado/reconectado do micro ou quando o driver do adaptador é atualizado, o número da porta Serial associada a ele pode mudar."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Um bom cliente de e-mail 32 bits é o \"Thunderbird\" (gratuito e Open Source), que pode ser baixado desse link: https://download.mozilla.org/?product=thunderbird-115.7.0-SSL&os=win&lang=pt-BR"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "/ENABLETEMPLOGCRITICALMESSAGE"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "--- Cores dos rabichos: -----------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "C1: cinza e vermelho"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "C2: cinza e amarelo"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "C3: cinza e verde"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "C4: cinza e marrom"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "C5: cinza e preto"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "C6: cinza e violeta"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "*M não é usado para o ECGV6 apenas no Ergo13*"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "L: rabicho *amarelo*   (braço esquerdo)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "F: rabicho *verde*     (perna esquerda)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "R: rabicho *vermelho*  (braço direito)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "N: rabicho *preto*     (perna direita)"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "É importante atentar para não confundir os rabichos precordiais (C1 a C6) que tem cores mistas, ou seja, cinza com uma outra cor com os rabichos de membros (L,F,R e N) que tem uma única cor."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "PARA QUEM NÃO GOSTAR DA ESCALA (10mm/mV) EM CADA DERIVAÇÃO E PEDIR PRA TIRAR:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Isso foi incluído por divergências na interpretação de mudanças nas normas técnicas Inmetro/ABNT/ANVISA."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Estamos estudando com esses órgãos a possibilidade de podermos colocar essa escala como opcional, mas depende fundamentalmente deles."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Nós também não gostamos disso, mas não podemos evitar por enquanto... 🙁"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Segue o exame que foi recuperado em nosso laboratório. IMPORTANTE: esse exame recuperado de arquivos *bastante danificados* e pode (ou não) corresponder à realidade do exame, de forma que é *essencial* que apenas o médico responsável pelo exame faça esse julgamento."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Com os danos observados, pode ter ocorrido troca de pacientes! Exemplo: um exame danificado pode abrir como se fosse de \"D. Maria\" mas, na verdade, são traçados do \"Sr. José\"... MUITO CUIDADO ao analisar esse(s) exame(s)!"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Segue também um PDF mostrando o que pudemos recuperar que, como já dissemos, deve ser avaliado somente pelo médico responsável pelo exame."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Usuario: HW.Suporte"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Senha: SuporteHW1992!"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Senha ReclameAqui:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Login: hwsistemasheartware"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Senha: HWReclameAqui1992!"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "O valor para unificação fica R$300 a primeira hora e 150 as horas subsequentes. Normalmente são necessárias apenas uma ou duas horas. No caso raro da situação estar complicada (bases de dados muito danificadas), teremos que trazer as bases para laboratório e analisar com cuidado e faremos um orçamento específico."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Vídeo sobre o Ergo13: https://youtu.be/tPfo6IuG33o"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "-----------------------------------------------------------------------------------"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "*Avaliação do SUPORTE*"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Estamos avaliando nossos atendimentos."
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "Quando puder dispor de 1 minuto, nos avalie *anonimamente* em:"
-  },
-  {
-    "categoria": "Suporte Remoto",
-    "subcategoria": "Geral",
-    "titulo": "Suporte",
-    "texto": "https://pt.surveymonkey.com/r/SuporteHW"
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Instaladores"
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o instalador entre nesse link: http://tinyurl.com/ecgv6-instalador ,após baixar o instalador basta roda-lo e seguir o passo a passo."
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o instalador entre nesse link: https://tinyurl.com/ecgv6-instalador11 ,após baixar o instalador basta roda-lo e seguir o passo a passo."
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o instalador entre nesse link: https://tinyurl.com/ecgv6-demo11 ,após baixar o instalador basta roda-lo e seguir o passo a passo."
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o instalador entre nesse link: http://tinyurl.com/ergo13-instalador ,após baixar o instalador basta roda-lo e seguir o passo a passo."
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o instalador entre nesse link: https://tinyurl.com/Ergo13CP-Instalador ,após baixar o instalador basta roda-lo e seguir o passo a passo."
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o instalador entre nesse link: http://tinyurl.com/ergoMET-instalador ,após baixar o instalador basta roda-lo e seguir o passo a passo."
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o atualizador entre nesse link: http://tinyurl.com/ecgv6-atualizador ,após baixar o instalador basta roda-lo"
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o atualizador entre nesse link: https://tinyurl.com/ecgv6-atualizador11 ,após baixar o instalador basta roda-lo"
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o atualizador entre nesse link: http://tinyurl.com/ergo13-atualizador ,após baixar o instalador basta roda-lo"
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "Para baixar o atualizador entre nesse link: http://tinyurl.com/ergoMET-atualizador ,após baixar o instalador basta roda-lo"
-  },
-  {
-    "categoria": "Instaladores",
-    "subcategoria": "Downloads",
-    "titulo": "Instalador",
-    "texto": "[ ] <<<< caractere invisível pra PF/PJ dos instaladores"
-  },
-  {
-    "categoria": "Atualizadores",
-    "subcategoria": "Atualização",
-    "titulo": "Atualizador",
-    "texto": "Atualizadores"
-  },
-  {
-    "categoria": "Atualizadores",
-    "subcategoria": "Atualização",
-    "titulo": "Atualizador",
-    "texto": "Para baixar o atualizador entre nesse link: https://tinyurl.com/Ergo13CP-Atualizador ,após baixar o atualizador basta roda-lo"
-  },
-  {
-    "categoria": "Atualizadores",
-    "subcategoria": "Atualização",
-    "titulo": "Atualizador",
-    "texto": "Para versões 1.0.3.8.057 e posteriores, você pode atualizar no próprio programa, usando a opção AJUDA -> VERIFICAR SE HÁ ATUALIZAÇÕES"
-  },
-  {
-    "categoria": "Manuais",
-    "subcategoria": "Downloads",
-    "titulo": "Manual",
-    "texto": "Para baixar o manual entre nesse link: http://tinyurl.com/ecgv6-manual"
-  },
-  {
-    "categoria": "Manuais",
-    "subcategoria": "Downloads",
-    "titulo": "Manual",
-    "texto": "Para baixar o manual entre nesse link: http://tinyurl.com/ergo13-manual"
-  },
-  {
-    "categoria": "Manuais",
-    "subcategoria": "Downloads",
-    "titulo": "Manual",
-    "texto": "Para baixar o manual entre nesse link: http://tinyurl.com/ergoCP-manual"
-  },
-  {
-    "categoria": "Manuais",
-    "subcategoria": "Downloads",
-    "titulo": "Manual",
-    "texto": "Para baixar o manual entre nesse link: http://tinyurl.com/ergoMET-manual"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Vocês já fizeram um backup ?"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Após a instalação do programa coloque a pasta Database de preferência na área de trabalho do micro, *(NÃO COPIE ELA POR CIMA DA QUE FOI INSTALADA)*, e mande o ID e Senha do Teamviewer."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Vocês só precisam copiar a pasta Database *INTEIRA* que geralmente fica em C:\\HW (Vocês podem ter alterado isso, abra o programa vá em AJUDA -> SOBRE, em cima do botão vai estar o caminho para a Database), apos a instalação do programa coloque a pasta Database de preferência na área de trabalho do micro, *(NÃO COPIE ELA POR CIMA DA QUE FOI INSTALADA)*, e nos chame."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "1 - Renomear a base de dados do programa já instalado no micro para DatabaseVAZIA caso NÃO tenha exames, caso tenha exames perguntar o que ele(a) quer fazer com ela, (NUNCA apague a base de dados, apenas renomeie ela como DatabaseDESATIVADA_(Data do dia da desativação) caso ele fale para deletar."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "2 - COPIAR o BKP da Database a ser restaurada para a pasta HW"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "2.1 - Substituir as pastas Entrada e Saida pelas pastas Entrada e Saida da Database a ser restaurada caso elas estejam lá"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "2.2 - Criar as pasta NetDir e Modelos dentro da Database caso elas não estejam lá"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "3 - Ir na pasta commom na pasta HW e executar o NETLock"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "4 - executar o ConfigBDE; se houver algum ítem em vermelho, corrija; clique em \"Testa BDE\"."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "6 - executar o arquivo .reg na Database para restaurar as configurações do usuário"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "1 - Copiar o caminho para a Database do servidor pela rede do explorer: TODOS os micros têm que usar esse caminho, algo como:"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "\\\\SalaDeExames\\DiscoC\\HW\\Database  ou  \\\\Servidor\\HW\\Database"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "3 - Criar (ou editar) um \"Valor da Cadeia de Caracteres\" com o nome Caminho Database do passo 1 acima"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "4 - Abrir o Caminho Database e colar o caminho para a Database"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "5 - Ir à pasta Commom na pasta HW e rodar o ConfigBDE"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "6 - Configurar o caminho do ConfigBDE para o mesmo caminho do Caminho Database, mas apontando para o NetDir no final (Database\\NetDir)"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "8.1 - Caso tenha mais de 1 micro usando a Database, repetir isso para TODOS, com o mesmo caminho"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Rode o programa C:\\HW\\Common\\NETLoCK.exe e clique em BUSCA RÁPIDA."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Dentro da pasta Common, rode o programa NETLoCK.exe e clique em BUSCA RÁPIDA."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Atalho Database Danificada"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "C:\\HW\\ECG\\ecg_db_danificada.bat /DBPath:\"C:\\HW\\Database_DANIFICADA\" /REMOTO"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Se existir alguma base de dados com exames antigos a ser recuperada, copie a pasta C:\\HW\\Database do micro antigo para a Área de Trabalho do micro novo antes pois, dependendo do tamanho da base de dados, essa pode ser a parte mais demorada da instalação."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Copie a pasta Database que fica em C:\\HW (vocês podem ter alterado isso) do micro antigo para a Área de Trabalho do micro novo antes, dependendo do tamanho da base de dados, essa pode ser a parte mais demorada da instalação."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Aproveitando o tempo em espera... você tem feito backup da base de dados com os exames?"
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Aproveitando a oportunidade, gostaria de lembrar a importância de estabelecer uma política de backups regulares da base de dados."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "É muito simples: abra o programa e vá em AJUDA -> SOBRE; na janela que se abrirá será mostrado o caminho para a base de dados (normalmente \"C:\\HW\\Database\", mas vocês podem ter mudado isso); basta fazer uma cópia da pasta indicada na janela SOBRE em sua mídia preferida (rede, HD Externo, Nuvem...). Não recomendamos backups em pendrives por serem mais frágeis e fáceis de perder. IMPORTANTE: *sempre* faça um backup completo da pasta \"Database\" e sub-pastas; da mesma forma, caso seja necessário restaurar um backup, NUNCA copie-o por sobre a base danificada: mova-a para outro local ou renomeie-a e, então, copie a pasta \"Database\" completa de seu backup para dentro da pasta \"C:\\HW\" do micro onde os exames são feitos. Coloque sempre a DATA do backup no nome da pasta. Exemplo: BkpDatabaseHWaammdd. Isso evita sobrescrever uma Database sobre outra e facilita a identificação."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "*NUNCA* copie uma base Database por cima de outra! *Sempre* renomeie/mova/apague a atual antes de copiar o backup para seu lugar."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Você deve fazer backups de TODOS os programas usados nesse micro, não só os da HW."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Quando terminar, mova esse arquivo DatabaseDDMMAA.rar para fora desse micro: para outro computador na rede, para um HD externo, para a nuvem (OneDrive, DropBox, Google Drive...). O importante é que ele não fique no mesmo micro onde os dados originais estão porque se o HD desse micro pifar ou for destruído por um vírus, o backup estará seguro em outro local."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Seu micro já tem um programa instalado que facilita MUITO os backups: é o WinRAR."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Só estou chamando a atenção para os backups porque tivemos um cliente que foi infectado por um desses vírus que criptografam (embaralham) o HD e pedem um resgate para desembaralhar os arquivos... ele perdeu 4 anos de ECGs, MAPAs, Holters e todos os dados do programa de consultório dele. :-("
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "A primeira coisa a se fazer é o backup dos dados do micro antigo. Para isso, faça uma cópia da pasta C:\\HW para um pendrive/hd externo/rede... e copie-a para a Área de Trabalho do micro novo. É importante fazer isso primeiro porque, dependendo do tamanho da base de dados, essa pode ser a operação mais demorada."
-  },
-  {
-    "categoria": "Database",
-    "subcategoria": "Backup e restauração",
-    "titulo": "Database",
-    "texto": "Os arquivos \".BIN\" não são estritamente necessários. Dos XX.X GBytes da pasta Database, YY.YGBytes são arquivos BIN! Eles contêm TODO o traçado eletrocardiográfico do início ao fim da monitorização. Toda vez que um registro é feito, a parte relevante necessária para a impressão é copiada para uma aquivo em separado, de forma que esse arquivo BIN fica redundante e normalmente desnecessário. A única tela do programa que pode acessá-lo é a tela FULL DISCLOSURE:"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "favor, rode o Suporte Remoto HW: no programa da HW, em AJUDA > SUPORTE REMOTO ou no seu micro, na pasta C:\\HW\\Common\\SuporteRemotoHW.exe. Caso não encontre o programa, pode baixá-lo deste link: http://tinyurl.com/SuporteRemotoHW. Quando puder, passe o ID/Senha gerados."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Por favor, feche esse TeamViewer e execute o TeamViewer que deve estar na pasta C:\\HW\\Common\\SuporteRemotoHW.exe ou, no programa da HW, em AJUDA > SUPORTE REMOTO. Assim que puder, mande os novos ID e Senha."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Você tem o TeamViewer instalado no micro?"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Se não tiver, pode baixar desse link: http://www.hw.ind.br/assets/downloads/SuporteRemotoHW.exe"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "1- Desconecte o cabo USB do computador e do amplificador;"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "2- Conecte novamente no computador, mudando a porta USB que estava;"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "A família \"98\", como o nome sugere, foi desenvolvida para o antigo *Windows 98*. Paramos de fabricar essa família em 2007 quando lançamos a família de equipamentos \"FÀCIL\" que usa portas USB ao invés das seriais usadas pela família 98. Mesmo tendo lançado essa nova família de equipamentos, demos suporte para a família 98 por mais de 10 anos (até 2016) quando decidimos encerrar oficialmente o suporte que ficava mais difícil a cada dia: alguns componentes eletrônicos que antes eram apenas difíceis de achar, ficaram impossíveis; micros sem porta serial e a mudança constante no funcionamento interno do Windows. Chegaram a acontecer situações muito desagradáveis, nas quais não conseguíamos achar um determinado componente eletrônico e o cliente achava que estávamos \"enrolando\" para forçar uma troca pelo equipamento mais moderno."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "CONFIGURAÇÕES DE INICIALIZAÇÃO. Nessa próxima tela só haverá um botão: \"Reiniciar\". Ao clicar nele, o micro vai reiniciar como se estivesse sendo ligado e eventualmente vai cair numa tela PARECIDA com essa. Quando estiver nessa tela, aperte a tecla \"*7*\", se nada acontecer, aperte a tecla \"*F7*\" (no meio e no alto de seu teclado). O Windows vai reiniciar normalmente e, assim que for possível, rode o Teamviewer e passe o ID/Senha."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Nessa só há um botão: \"Reiniciar\". Ao clicar nele, o micro vai reiniciar como se estivesse sendo ligado e eventualmente vai cair numa tela PARECIDA com essa. Quando estiver nessa tela, aperte a tecla \"*7*\", se nada acontecer, aperte a tecla \"*F7*\" (no meio e no alto de seu teclado). O Windows vai reiniciar normalmente e, assim que for possível, rode o Teamviewer e passe o ID/Senha."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "- Feche qualquer outra versão do TeamViewer que porventura esteja aberta."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "- Dê um clique duplo no programa \"SuporteRemotoHW.exe\" (requer acesso à internet)"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Se não possuir o TeamViewer no micro, baixe de nosso site: http://www.hw.ind.br/assets/downloads/SuporteRemotoHW.exe (é a versão 15, registrada para a HW)."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Por favor, no cabo que liga a caixinha azul ao micro, solte o conector da porta USB (NO MICRO), espere 5 segundos e reconecte. Me avise quando tiver reconectado."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "O cabo que vai da porta USB à caixinha azul está conectado numa USB na frente ou na traseira do micro?"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Por favor, passe para uma das USBs na frente do micro. Me avise quando tiver feito."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Por favor, passe para uma das USBs na traseira do micro. Me avise quando tiver feito."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Por favor, conecte em OUTRA PORTA USB. Me avise quando tiver feito."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "O cabo USB está conectado DIRETAMENTE ao micro ou a um dispositivo com várias portas USB juntas? (existe um hub USB?)"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "A vasta maioria dos hubs USB não têm capacidade de corrente para alimentar o amplificador de ECG (a caixinha azul)"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Tente trocar a porta USB que a caixinha azul (pré-amplificador) está conectado."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Temos duas opções: (1) há algo errado no ECG (provavelmente no cabo USB) ou, (2) há algo errado nas portas USB desse micro. O jeito de definir isso, é fazer uma instalação-teste rapidinha em outro micro. Se funcionar lá, o problema é nas USB desse micro; se não funcionar, deve ser no ECG e será necessário enviar ele para manutenção."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Reinicie o micro, rode o Suporte Remoto e mande o ID/Senha do TeamViewer para o WhatsApp (31) 9.9890-7226."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "- 1 porta USB 2.0 disponível (o equipento *NÃO* pode ficar conectado a um HUB USB)"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Esse cabo USB é bem antigo e vou ter que regrava-lo. Para isso, vamos ter que reiniciar o Windows de um modo diferente. Vou iniciar o processo mas não posso terminá-lo pois a conexão cairá. Anote esse WhatsApp (31) 9.9890-7226 e vá mandando fotos das opções que o Windows for mostrando, ok?"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "*CONFIGURAÇÕES DE INICIALIZAÇÃO*. Nessa próxima tela só haverá um botão: *\"Reiniciar\"*. Ao clicar nele, o micro vai reiniciar como se estivesse sendo ligado e eventualmente vai cair numa tela PARECIDA com essa. Quando estiver nessa tela, aperte a tecla *\"7\"*, se nada acontecer, aperte a tecla *\"F7\"* (no meio e no alto de seu teclado). O Windows vai reiniciar normalmente e, assim que for possível, rode o o Teamviewer e passe o ID/Senha (o programa instala uma versão registrada do TeamViewer em C:\\HW\\Common\\SuporteRemotoHW.exe)."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Esse problema de \"pré-amplificador não encontrado\" provavelmente é um mau contato. Se acontecer de novo, desconecte o conector redondo da caixinha azul e verifique se os 4 pininhos metálicos estão ok (retos e da mesma altura) e reconecte gentilmente mas garantindo que o conector vá até o fundo; se persistir, tente trocar de porta USB no micro."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Vou precisar de alguém na frente do micro para desconectar/conectar o cabo USB de vez em quando... normalmente é rápido e não demora nem 5 minutos."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Envie a caixinha azul, o cabo USB e o cabo de paciente."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "O pessoal do TeamViewer faz uma \"sacanagem\" com quem efetivamente compra o produto deles: pelo menos uma vez por ano sai uma nova versão, aí, quando a gente tenta conectar num cliente com essa nova versão, é mostrada uma mensagem dizendo que temos que atualizar a nossa, só que é muito caro comprar várias licenças para uso simultâneo... :-("
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Se for um equipamento da linha \"98', que tem esse nome porque foi desenvolvida para o antigo Windows 98, já não a produzimos desde 2007, quando lançamos uma família de equipamentos que usam portas USB ao invés das seriais usadas pela família 98."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Isso não é um problema do programa, e sim da esteira; mais especificamente do adaptador USB / Serial *da esteira*."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "LINK PARA DOWNLOAD DO TEAMVIEWER QUICKSUPPORT: https://download.teamviewer.com/QS       (<<< COMEÇA DOWNLOAD DIRETO)"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Se não tiver o TeamViewer instalado no seu micro, baixe o TeamViewer QuickSupport através desse link: https://download.teamviewer.com/QS       (<<< COMEÇA DOWNLOAD DIRETO)"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Senha TeamViewer:"
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Não temos uma licença do AnyDesk para uso comercial. Sugerimos o uso do TeamViewer."
-  },
-  {
-    "categoria": "Hardware",
-    "subcategoria": "USB e conexão",
-    "titulo": "Hardware",
-    "texto": "Se não tiver o TeamViewer em sua máquina, baixe o *TeamViewer QuickSupport* desse link: https://download.teamviewer.com/QS   (o download começa automaticamente)"
-  },
-  {
-    "categoria": "Rede",
-    "subcategoria": "Configuração de rede",
-    "titulo": "Rede",
-    "texto": "----------------------------------------------------------Rede----------------------------------------------------------"
-  },
-  {
-    "categoria": "Rede",
-    "subcategoria": "Configuração de rede",
-    "titulo": "Rede",
-    "texto": "7 - Clicar no botão [!] à direita do campo NETDIR"
-  },
-  {
-    "categoria": "Rede",
-    "subcategoria": "Configuração de rede",
-    "titulo": "Rede",
-    "texto": "- Segurança elétrica do computador, periféricos e rede elétrica de acordo com as normas aplicáveis"
-  },
-  {
-    "categoria": "Rede",
-    "subcategoria": "Configuração de rede",
-    "titulo": "Rede",
-    "texto": "*ATENÇÃO*: não usar o *Neutro* da rede elétrica como se fosse *Terra*!"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Manutenção:"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "LINK DIRETO PARA O FORMULÁRIO: https://form.jotform.com/202993281755666"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Para enviar para a manutenção, por favor,"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Preencha o formulário abaixo com uma descrição *detalhada* do defeito e, ao final, clique no botão ENVIAR"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Embale cuidadosamente o material e *envie para o endereço que aparece no topo do formulário*."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "FORMULÁRIO: https://form.jotform.com/202993281755666"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "|      | \t\t|\tSim: Pedir ao cliente para enviar o cabo paciente para manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "|\t     |\t\t|\tNão: Pedir ao cliente para enviar o amplificador para manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "|\t     |\tNão: Pedir o cliente para enviar o CONJUNTO amplificador + cabo paciente para manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "|\t\t    | Sim: Pedir o cliente para enviar o amplificador para manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "|\t\t    | Não: Pedir ao cliente para enviar o cabo paciente para manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "|\tNão: Pedir o cliente para enviar o CONJUNTO amplificador + cabo paciente para manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Obrigado pelo contato, mas esse canal é para Suporte ao Usuário. Para manutenção, entre em contato com *Edi*: (31)3461-7226 (WhatsApp/Voz), e-mail: atendimento@hw.ind.br, Cel/WhatsApp: (31)9.9711-7226;"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "A/C Depto. Manutenção"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Faça uma embalagem bem acolchoada e verifique com sua contabilidade se é necessário enviar alguma nota fiscal. Coloque um bilhetinho junto dizendo:"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Para enviar para manutenção, por favor, preencha o formulário no link abaixo com todos os dados da clínica e uma descrição detalhada do defeito. Ao final, clique no botão ENVIAR"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Embale cuidadosamente o material e envie para o endereço que aparece no topo do formulário."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "FORMULÁRIO: https://form.jotform.com/202993281755666"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Para acompanhar a manutenção, entre em contato com *Edi*: (31)3461-7226, e-mail: atendimento@hw.ind.br, (31) 9.9711-7226 ou, se for SEDEX, acompanhe pelo site dos correios: https://www2.correios.com.br/sistemas/rastreamento/"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Favor fazer uma embalagem bem acolchoada pois, às vezes, as caixas chegam aqui bastante danificadas."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "A duração e o valor da manutenção dependem do problema; quando o equipamento chegar, será feita uma avaliação e será enviado um orçamento para sua aprovação (ou não)."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Depende da fila de aparelhos em manutenção:"
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "Sempre que notar algo errado num traçado e for mandar cabo para manutenção, registre o sinal SEM FILTROS mesmo que não vá entrregar o traçado para o paciente e envie o traçado junto com o cabo. Isso facilita muito o diagnóstico do pessoal da manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "4) defeito no cabo de paciente ou na caixinha azul do ECG. Acho que seria interessante analisarmos as possibilidades de (1) a (3) antes de enviar o equipamento para manutenção."
-  },
-  {
-    "categoria": "Manutenção",
-    "subcategoria": "Envio manutenção",
-    "titulo": "Manutenção",
-    "texto": "FORMULÁRIO PARA ENVIO DE EQUIPAMENTO PARA MANUTENÇÃO: https://form.jotform.com/202993281755666"
-  },
-  {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Por favor, feche todos os programas."
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Feche o programa e faça o seguinte para vermos:"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "4- Abra o programa novamente para verificar se ira apresentar a mensagem;"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "7 - se não der nem um erro abrir o programa e verificar se os exames estão aparecendo"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "No Windows 7: Atualizar normalmente pelo gerenciador de dispositivos"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "No Windows 10 e 11:"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "vamos ter que reiniciar o Windows de um modo diferente. Vou iniciar o processo mas não posso terminá-lo pois a conexão cairá. vá me mandando fotos pelo whatsapp das opções que o Windows for mostrando, ok?"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Para reiniciar ------> Clique no botão de reiniciar do Windows segurando o shift"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "2 - Abrir o regedit (windows + R), ir em Computador\\HKEY_CURRENT_USER\\SOFTWARE\\HeartWare\\ECGV6 ou ERGO13 ou ERGOMET13\\Geral"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "8 - Abrir o programa e verificar se funcionou"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Nota: o programa NÃO deve permitir que a mesma ficha de paciente ou anamnese seja aberta em máquinas diferentes ao mesmo tempo, mas deve permitir que a ficha de paciente e a ficha de anamnese sejam abertas em micros diferentes ao mesmo tempo."
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "- Na sua Área de Trabalho, abra o atalho \"Meu Computador\" ou \"Este Computador\" ou \"Computador\" (depende de sua versão do Windows)"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "- Selecione o disco \"C:\" (ou \"Windows - (C:)\" ou \"Disco Local (C:)\")"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Abra \"Meu Computador\" (ou \"Este Computador\" ou \"Computador\", dependendo da versão de seu Windows)"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Por ser um programa em TEMPO REAL, ele tem características bastante específicas e é bem \"pesado\": recebe + ou - 150KBytes da caixinha azul POR SEGUNDO, tem que separar e filtrar esses canais, mostrar na tela, gravar no HD, imprimir *gráficos* (não é texto simples) de página cheia, tratar mouse e teclado, etc... tudo isso com um atraso da ordem de milisegundos entre o evento no peito do paciente e sua exibição na tela. Por isso, qq coisa que \"roube\" CPU para si pode atrapalhar bastante."
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Configuração mínima do micro:"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "- 8GB de RAM (1GB e for WIndow 11)7"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "- Conexão internet para download do programa de instalação"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "- Windows® 10 ou 11"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Minha conexão vai cair no próximo clique... a partir daí, vá mandando fotos pelo WhatsApp das opções que o windows for mostrando, ok?"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Vocês medem a Pressão Arterial quando registram o ECG? (pergunto isso porque aquela janela que pede a P.A. quando se registra o ECG pode ser desabilitada)"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "As impressões saíram ok? O milimetrado no fundo está bem visível?"
-  },
-  {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
+    "subcategoria": "Configuração Inicial",
     "texto": "Quer ajuda na configuração básica do programa?"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "da mesma forma que você não gostaria que passássemos alguém na sua frente, não podemos passar você na frente de ninguém - o processo é em estrita fila indiana mas, NORMALMENTE, demora de 3 a 4 dias: quando o equipamento chega, é feita uma avaliação e entramos em contato passando um orçamento para sua aprovação (ou não)."
+    "subcategoria": "Configuração Inicial",
+    "texto": "Vocês medem a Pressão Arterial quando registram o ECG? (pergunto isso porque aquela janela que pede a P.A. quando se registra o ECG pode ser desabilitada)"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "da mesma forma que vocês não gostariam que passasse alguém na sua frente, não podemos passar vocês na frente de ninguém - o processo é em estrita fila indiana mas, NORMALMENTE, demora de 3 a 4 dias: quando o equipamento chega, é feita uma avaliação e entramos em contato passando um orçamento para sua aprovação (ou não)."
+    "subcategoria": "Configuração Inicial",
+    "texto": "Vocês vão medir a Pressão Arterial quando registrarem o ECG? (pergunto isso porque aquela janela que pede a P.A. quando se registra o ECG pode ser desabilitada)"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Talvez fosse interessante apagar os exames de alguns anos pra trás então; o programa tem esse recurso."
+    "subcategoria": "Configuração Inicial",
+    "texto": "O Sr. vai medir a Pressão Arterial quando registrar o ECG? (pergunto isso porque aquela janela que pede a P.A. quando se registra o ECG pode ser desabilitada)"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "O registro deve ter sido feito antes de atingir 1/3 da fase e atingir o \"steady-state\". Nesses casos, o programa considera o VO2 do estágio anterior pois o organismo do paciente ainda não se adaptou à nova carga imposta pela nova fase do protocolo. Quando se faz o relatório AO FINAL DO TESTE, considera-se o máximo absoluto imposto ao paciente ao longo do teste. É uma metodologia da HW, que nos parece fazer sentido do ponto de vista fisiológico. OK?"
+    "subcategoria": "Configuração Inicial",
+    "texto": "As impressões saíram ok? O milimetrado no fundo está bem visível?"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Se eu não reconectar até um minuto depois do Windows reiniciar, me mande o id/senha novamente pelo WhatsApp."
+    "subcategoria": "Configuração Inicial",
+    "texto": "Quer que os registros sejam enviados automaticamente para a impressora à medida que forem sendo feitos?"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "3) aterramento do micro: seria interessante vermos esse sinal com o filtro de 35Hz desligado, para vermos o que está efetivamente chegando no micro e talvez termos uma pista do que possa estar ocorrendo;"
+    "subcategoria": "Configuração Inicial",
+    "texto": "Quer configurar o cabeçalho do laudo?"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Mesmo tendo lançado essa nova família de equipamentos, demos suporte para a família 98 por mais de 10 anos quando decidimos encerrar oficialmente o suporte porque a cada dia ficava mais difícil: alguns componentes eletrônicos que antes eram apenas difíceis de achar, ficaram impossíveis; micros sem porta serial e a mudança constante no funcionamento interno do Windows. Chegaram a acontecer situações muito chatas, nas quais não conseguíamos achar um determinado componente eletrônico e o cliente achava que estávamos \"enrolando\" para forçar uma troca pelo equipamento mais moderno."
+    "subcategoria": "Configuração Inicial",
+    "texto": "Preencha ao menos a primeira linha, ela sai no rodapé dos traçados também."
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "https://answers.microsoft.com/pt-br/windows/forum/windows_10-security/autokms/368ebffa-5943-4639-b8f8-020e0a588bab"
+    "subcategoria": "Configuração Inicial",
+    "texto": "Normalmente, na linha 1, em letras grandes vai o nome do médico/clínica/hospital.\nNa linha 2, em letras médias, vão as especialidades, exames realizados, algum slogan ou nome do departamento.\nNa linha 3, em letras pequenas, vão os dados de contato: endereço, telefone, WhatsApp, e-mail, etc..."
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "\"Esta é uma ferramenta \"crack\" utilizada para ativar cópias piratas do Windows, na maioria das vezes carrega em sua escrita arquivos maliciosos, primeiro desinstale o software do Windows, aperte Win+R e digite o comando appwiz.cpl e procure por KMSpico, depois faça um varredura completa com seu antívírus e depois com o Malwarebytes Baixe aqui!\""
+    "subcategoria": "Configuração Inicial",
+    "texto": "Exemplo:\nLinha 1: DR. FULANO DE TAL\nLinha 2: Cardiologia Clínica\nLinha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Não se esqueça de verificar o aterramento do micro e da esteira com um eletricista de confiança. Esse aterramento é *obrigatório por norma* para equipamentos médicos."
+    "subcategoria": "Configuração Inicial",
+    "texto": "Exemplo:\nLinha 1: Clínica do Coração\nLinha 2: Cardiologia e Medicina do Esporte\nLinha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "; se não for, tem algo errado no aterramento;"
+    "subcategoria": "Configuração Inicial",
+    "texto": "Exemplo:\nLinha 1: CardioMed\nLinha 2: Medicina e Segurança do Trabalho\nLinha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "se for próximo de ZERO, peça para ele conectar as duas carcaças com um fio. Lembre-se: isso é uma GAMBIARRA TEMPORÁRIA até que se resolva o problema na origem (aterramento)."
+    "subcategoria": "Configuração Inicial",
+    "texto": "Exemplo:\nLinha 1: Hospital Santo do Hospital\nLinha 2: Departamento de Métodos Gráficos\nLinha 3: Rua Sete de Setembro 123 / 456 - Centro - Alguma Cidade/XX - 123456-789 - Fone: (12) 3456-7890 - WhatsApp: (12) 9.8765-4321"
   },
   {
     "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Essa informação tem que ser passada para o programa; não tem como ele \"adivinhar\" que a porta mudou."
+    "subcategoria": "Configuração Inicial",
+    "texto": "Tem uma logomarca que queira colocar na tela e/ou no cabeçalho do laudo? (pode ser de facebook ou site)"
   },
   {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Você sabe abrir o Gerenciador de Dispositivos do Windows?"
+    "categoria": "Manutenção",
+    "subcategoria": "Envio",
+    "texto": "LINK DIRETO PARA O FORMULÁRIO: https://form.jotform.com/202993281755666"
   },
   {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Por favor entre em contato com o fabricante da esteira, a Inbramed. O WhatsApp do suporte deles é: (51) 9169-2705."
+    "categoria": "Manutenção",
+    "subcategoria": "Envio",
+    "texto": "Para enviar para a manutenção, por favor,\nPreencha o formulário abaixo com uma descrição *detalhada* do defeito e, ao final, clique no botão ENVIAR\nEmbale cuidadosamente o material e *envie para o endereço que aparece no topo do formulário*.\nFORMULÁRIO: https://form.jotform.com/202993281755666\nOBS: por favor *não* mande os acessórios (perinhas, cardioclips...)"
   },
   {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "Isso é muito injusto... imagine o seguinte cenário: o Sr. está em consulta com um paciente e há vários outros na sala de espera. O Sr. vai fazendo a anamnese e cada pergunta demora 5 minutos para ser respondida porque o paciente não está acompanhando a consulta como devia, o que além de ser um desrespeito com o Sr., acaba prejudicando os pacientes que esperam pelo Sr. Vê a semelhança?"
+    "categoria": "Manutenção",
+    "subcategoria": "Envio",
+    "texto": "Envie a caixinha azul, o cabo USB e o cabo de paciente.\nFavor fazer uma embalagem bem acolchoada pois, às vezes, as caixas chegam aqui bastante danificadas."
   },
   {
-    "categoria": "Configuração",
-    "subcategoria": "Sistema",
-    "titulo": "Configuração",
-    "texto": "IMPORTANTE: *A SENHA CADASTRADA NÃO É SALVA PELO PROGRAMA E, PORTANTO, NÃO PODE SER ESQUECIDA!* Nem aqui na fábrica teríamos condições de recuperar essa senha."
+    "categoria": "Manutenção",
+    "subcategoria": "Envio",
+    "texto": "Sempre que notar algo errado num traçado e for mandar cabo para manutenção, registre o sinal SEM FILTROS mesmo que não vá entrregar o traçado para o paciente e envie o traçado junto com o cabo. Isso facilita muito o diagnóstico do pessoal da manutenção."
   },
   {
-    "categoria": "Assinatura Digital",
-    "subcategoria": "Assinaturas",
-    "titulo": "Assinatura",
-    "texto": "https://www.techtudo.com.br/dicas-e-tutoriais/2017/06/como-desativar-a-assinatura-de-driver-no-windows-7.ghtml"
+    "categoria": "Manutenção",
+    "subcategoria": "Envio",
+    "texto": "HW Sistemas - HeartWare Ltda.\nA/C Depto. Manutenção\nAv. Alphonsus de Guimarães, 115\nBairro Santa Efigênia\nBelo Horizonte / MG\n30270-020"
   },
   {
-    "categoria": "Assinatura Digital",
-    "subcategoria": "Assinaturas",
-    "titulo": "Assinatura",
-    "texto": "Basta pegar uma folha em branco, afixar o carimbo do CRM e pedir para o médico assinar por cima."
+    "categoria": "Manutenção",
+    "subcategoria": "Acompanhamento",
+    "texto": "Obrigado pelo contato, mas esse canal é para Suporte ao Usuário. Para manutenção, entre em contato com *Edi*: (31)3461-7226 (WhatsApp/Voz), e-mail: atendimento@hw.ind.br, Cel/WhatsApp: (31)9.9711-7226;"
   },
   {
-    "categoria": "Assinatura Digital",
-    "subcategoria": "Assinaturas",
-    "titulo": "Assinatura",
-    "texto": "Escaneie essa assinatura gerando um arquivo JPG com menos de 50KBytes e, no programa, entrar no cadastro dos médicos responsáveis e adicionar a imagem."
+    "categoria": "Manutenção",
+    "subcategoria": "Acompanhamento",
+    "texto": "Para acompanhar a manutenção, entre em contato com *Edi*: (31)3461-7226, e-mail: atendimento@hw.ind.br, (31) 9.9711-7226 ou, se for SEDEX, acompanhe pelo site dos correios: https://www2.correios.com.br/sistemas/rastreamento/"
   },
   {
-    "categoria": "Assinatura Digital",
-    "subcategoria": "Assinaturas",
-    "titulo": "Assinatura",
-    "texto": "Uma vez cadastrada a assinatura, para assinar um documento, basta clicar no cadeadinho no alto e à direita do Editor de Conclusões Finais e digitar a senha."
+    "categoria": "Manutenção",
+    "subcategoria": "Acompanhamento",
+    "texto": "Para acompanhar envio/recebimento de equipamento via SEDEX a partir do número do objeto, use site dos correios: https://www2.correios.com.br/sistemas/rastreamento/"
   },
   {
-    "categoria": "Assinatura Digital",
-    "subcategoria": "Assinaturas",
-    "titulo": "Assinatura",
-    "texto": "*Para cadastrar uma assinatura* a ser inserida nas conclusões finais, pegue uma folha de papel em branco, coloque seu carimbo CRM e assine por cima do carimbo; escaneie a assinatura num arquivo JPG com *NO MÁXIMO 50 KBytes*; vá em CONFIGURAÇÕES -> CADASTRO -> MÉDICOS RESPONSÁVEIS, selecione o seu cadastro e dê um clique duplo na linha para editá-lo; clique em ATRIBUI ASSINATURA, escolha o arquivo com sua assinatura/carimbo e clique em OK; digite a senha uma vez e clique OK; digite a senha novamente para confirmar. A senha agora está cadastrada."
+    "categoria": "Manutenção",
+    "subcategoria": "Prazo",
+    "texto": "A duração e o valor da manutenção dependem do problema; quando o equipamento chegar, será feita uma avaliação e será enviado um orçamento para sua aprovação (ou não)."
   },
   {
-    "categoria": "Assinatura Digital",
-    "subcategoria": "Assinaturas",
-    "titulo": "Assinatura",
-    "texto": "*Para assinar um exame*, faça o seguinte: 1) certifique-se na AMAMNESE que o médico responsável pelo exame esteja corretamente selecionado; 2) no editor de conclusões finais, uma vez feito o laudo, clique no botão que é um cadeadinho (deve ser o penúltimo da esquerda para a direita) e digite a senha. Pronto, o laudo está assinado e só poderá ser editado usando a senha cadastrada junto com a assinatura."
+    "categoria": "Manutenção",
+    "subcategoria": "Prazo",
+    "texto": "Da mesma forma que você não gostaria que passássemos alguém na sua frente, não podemos passar você na frente de ninguém - o processo é em estrita fila indiana."
   },
   {
-    "categoria": "Comercial",
-    "subcategoria": "Vendas",
-    "titulo": "Comercial",
-    "texto": "Obrigado pelo contato, mas esse canal é para Suporte ao Usuário. Para vendas, entre em contato com *Robson* pelo Cel/WhatsApp (31)9.9954-7226; telefone (31)3461-7226; e-mail vendas@hw.ind.br."
-  },
-  {
-    "categoria": "Comercial",
-    "subcategoria": "Vendas",
-    "titulo": "Comercial",
-    "texto": "Pela versão do programa que vc mencionou (2.0.3.5), trata-se de um produto da família \"98\", desenvolvida para o windows 98. Paramos de fabricar essa família em 2007 e encerramos o suporte em 2016. Se for esse o caso, favor entrar em contato com nosso departamento de vendas (vendas@hw.ind.br ou (31) 9.9954-7226 voz/whatsapp) para estudar opções de upgrade de seu produto."
-  },
-  {
-    "categoria": "Comercial",
-    "subcategoria": "Vendas",
-    "titulo": "Comercial",
-    "texto": "O Ergo13 NÃO é compatível com o Ergo98 e, no momento, a única opção é tentar com nosso pessoal de vendas se eles levariam um Ergo98 em conta na troca por um Ergo13."
-  },
-  {
-    "categoria": "Comercial",
-    "subcategoria": "Vendas",
-    "titulo": "Comercial",
-    "texto": "O e-mail do depto de vendas é: vendas@hw.ind.br"
-  },
-  {
-    "categoria": "Frases Gerais",
-    "subcategoria": "Atendimento",
-    "titulo": "Frases Gerais",
-    "texto": "Disponha! Tenha uma boa tarde, e um excelente serviço!"
-  },
-  {
-    "categoria": "Frases Gerais",
-    "subcategoria": "Atendimento",
-    "titulo": "Frases Gerais",
-    "texto": "Posso ajudar em mais alguma coisa?"
+    "categoria": "Manutenção",
+    "subcategoria": "Prazo",
+    "texto": "Depende da fila de aparelhos em manutenção: \nda mesma forma que você não gostaria que passássemos alguém na sua frente, não podemos passar você na frente de ninguém - o processo é em estrita fila indiana mas, NORMALMENTE, demora de 3 a 4 dias: quando o equipamento chega, é feita uma avaliação e entramos em contato passando um orçamento para sua aprovação (ou não)."
   }
 ]
