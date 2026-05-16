@@ -9,6 +9,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  String submenuSelecionado = "";
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -49,6 +51,11 @@ class _HomePageState extends State<HomePage> {
                             "Assinatura Digital",
                             "Avaliação de Suporte",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -60,6 +67,11 @@ class _HomePageState extends State<HomePage> {
                             "Família 98",
                             "Drivers",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -74,6 +86,11 @@ class _HomePageState extends State<HomePage> {
                             "Migração de Micro",
                             "Segurança",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -87,6 +104,11 @@ class _HomePageState extends State<HomePage> {
                             "Demo",
                             "Atualizadores",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -98,6 +120,11 @@ class _HomePageState extends State<HomePage> {
                             "ErgoCP",
                             "ErgoMET",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -108,6 +135,11 @@ class _HomePageState extends State<HomePage> {
                             "ErgoCP",
                             "ErgoMET",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -121,6 +153,11 @@ class _HomePageState extends State<HomePage> {
                             "Aterramento",
                             "Configuração Inicial",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -130,6 +167,11 @@ class _HomePageState extends State<HomePage> {
                             "NETDIR",
                             "Segurança Elétrica",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -141,6 +183,11 @@ class _HomePageState extends State<HomePage> {
                             "Prazo",
                             "Diagnóstico",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -151,6 +198,11 @@ class _HomePageState extends State<HomePage> {
                             "Troca de Equipamento",
                             "Contato",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
 
                         Menutile(
@@ -162,6 +214,11 @@ class _HomePageState extends State<HomePage> {
                             "Espera",
                             "Explicações Técnicas",
                           ],
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                            });
+                          },
                         ),
                       ],
                     ),
@@ -171,31 +228,35 @@ class _HomePageState extends State<HomePage> {
             ),
           ),
           Expanded(
-            child: Container(color: const Color.fromARGB(255, 201, 199, 193),
-            child: Column(
-              children: [
-                Container(
-                  height: 80,
-                  color: const Color.fromARGB(255, 255, 255, 255),
-                  child: Padding(
-                    padding: const EdgeInsets.only(left: 30),
-                    child: Row(
-                      spacing: 30,
-                      //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                      children: [
-                        Image.asset("../../assets/images/logo.png"),
-                        Text("Frases",
-                        style: TextStyle(
-                          fontSize: 30,
-                          color: const Color(0xFF028FCF),
-                          fontWeight: FontWeight.w500
-                        ),)
-                      ],
+            child: Container(
+              color: const Color.fromARGB(255, 201, 199, 193),
+              child: Column(
+                children: [
+                  Container(
+                    height: 80,
+                    color: const Color.fromARGB(255, 255, 255, 255),
+                    child: Padding(
+                      padding: const EdgeInsets.only(left: 30),
+                      child: Row(
+                        spacing: 30,
+                        //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                        children: [
+                          Image.asset("../../assets/images/logo.png"),
+                          Text(
+                            "Frases",
+                            style: TextStyle(
+                              fontSize: 30,
+                              color: const Color(0xFF028FCF),
+                              fontWeight: FontWeight.w500,
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
                   ),
-                )
-              ],
-            ),),
+                ],
+              ),
+            ),
           ),
         ],
       ),
