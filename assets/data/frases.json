@@ -26,52 +26,52 @@
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "Por favor, feche esse TeamViewer e execute o TeamViewer que deve estar na pasta C:\\HW\\Common\\SuporteRemotoHW.exe ou, no programa da HW, em AJUDA > SUPORTE REMOTO. Assim que puder, mande os novos ID e Senha."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "Você tem o TeamViewer instalado no micro?"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "- Feche qualquer outra versão do TeamViewer que porventura esteja aberta.\n- Na sua Área de Trabalho, abra o atalho 'Meu Computador' ou 'Este Computador' ou 'Computador' (depende de sua versão do Windows)\n\n- Selecione o disco C: (ou Windows - (C:) ou Disco Local (C:))\n- Selecione a pasta HW\n- Selecione a pasta Common\n- Dê um clique duplo no programa 'SuporteRemotoHW.exe' (requer acesso à internet)\n- Passe o ID e Senha gerados para o WhatsApp (31) 9.9890-7226"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "Reinicie o micro, rode o Suporte Remoto e mande o ID/Senha do TeamViewer para o WhatsApp (31) 9.9890-7226."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "O pessoal do TeamViewer faz uma 'sacanagem' com quem efetivamente compra o produto deles: pelo menos uma vez por ano sai uma nova versão, aí, quando a gente tenta conectar num cliente com essa nova versão, é mostrada uma mensagem dizendo que temos que atualizar a nossa, só que é muito caro comprar várias licenças para uso simultâneo... :-("
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "LINK PARA DOWNLOAD DO TEAMVIEWER QUICKSUPPORT: https://download.teamviewer.com/QS       (<<< COMEÇA DOWNLOAD DIRETO)"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "Se não tiver o TeamViewer instalado no seu micro, baixe o TeamViewer QuickSupport através desse link: https://download.teamviewer.com/QS       (<<< COMEÇA DOWNLOAD DIRETO)"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "Senha TeamViewer:\nUsuario: HW.Suporte\nSenha: SuporteHW1992!"
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "Não temos uma licença do AnyDesk para uso comercial. Sugerimos o uso do TeamViewer."
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Teamviewer",
+    "subcategoria": "TeamViewer",
     "texto": "Não temos uma licença do AnyDesk para uso comercial. Sugerimos o uso do TeamViewer."
   },
   {
@@ -126,8 +126,283 @@
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "Ruído no Sinal",
-    "texto": "Caso não consiga identificar o tipo de gel, limpe bem os eletrodos e a pele do paciente faça um teste sem a aplicação de gel."
+    "subcategoria": "Avaliação de Suporte",
+    "texto": "Disponha! Tenha uma boa tarde, e um excelente serviço!\nSe puder, avalie nosso suporte em nosso site em:\nhttps://www.hw.ind.br/depoimentos/"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Esse problema de 'pré-amplificador não encontrado' provavelmente é um mau contato. Se acontecer de novo, desconecte o conector redondo da caixinha azul e verifique se os 4 pininhos metálicos estão ok (retos e da mesma altura) e reconecte gentilmente mas garantindo que o conector vá até o fundo; se persistir, tente trocar de porta USB no micro."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Vou precisar de alguém na frente do micro para desconectar/conectar o cabo USB de vez em quando... normalmente é rápido e não demora nem 5 minutos."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "É da natureza de todo e qualquer defeito: num momento estava funcionando e no seguinte para de funcionar... é assim com lâmpadas, carros, celulares, TVs e... humanos! :-)"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Por favor, solte o conector redondo da caixinha azul. Me avise quando tiver feito.\nObserve o conector redondo do cabo: quantos pininhos METÁLICOS você vê?\nEstão todos retos e do mesmo tamanho?\nPor favor, não mande foto... se está difícil pra você ver com o conector na mão, imagine para mim, com apenas uma foto! :-)\nTem alguma sujeira ou corrosão no conector?\nOk. Pode reconectar delicadamente, mas garantindo que o conector vá até o fundo. Às vezes o conector esbarra na borda da caixinha. Me avise quando tiver reconectado."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Deveriam ser 4 pinos metálicos (2+2) e um pino plástico mais grosso."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Esse conector é semelhante ao usado em teclados (muda apenas o número de pinos) e tem uma guia metálica externa com três chanfros-guia e um pino-guia plástico interno para prevenir conexão incorreta."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "É... parece que tem algo errado com o equipamento. \nTemos duas opções: (1) há algo errado no ECG (provavelmente no cabo USB) ou, (2) há algo errado nas portas USB desse micro. O jeito de definir isso, é fazer uma instalação-teste rapidinha em outro micro. Se funcionar lá, o problema é nas USB desse micro; se não funcionar, deve ser no ECG e será necessário enviar ele para manutenção."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Você tem outro micro onde a gente pudesse fazer esse teste?"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Tente trocar a porta USB que a caixinha azul (pré-amplificador) está conectado."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Feche o programa e faça o seguinte para vermos:\n1- Desconecte o cabo USB do computador e do amplificador;\n2- Conecte novamente no computador, mudando a porta USB que estava;\n3- Conecte no amplificador\n4- Abra o programa novamente para verificar se ira apresentar a mensagem;"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Por favor, no cabo que liga a caixinha azul ao micro, solte o conector da porta USB (NO MICRO), espere 5 segundos e reconecte. Me avise quando tiver reconectado."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Obrigado. Agora, no mesmo cabo, faça o mesmo com o conector redondo da caixinha azul. Me avise quando tiver reconectado."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "O cabo que vai da porta USB à caixinha azul está conectado numa USB na frente ou na traseira do micro?"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Por favor, passe para uma das USBs na frente do micro. Me avise quando tiver feito."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Por favor, passe para uma das USBs na traseira do micro. Me avise quando tiver feito."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Por favor, conecte em OUTRA PORTA USB. Me avise quando tiver feito."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "O cabo USB está conectado DIRETAMENTE ao micro ou a um dispositivo com várias portas USB juntas? (existe um hub USB?)"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "A vasta maioria dos hubs USB não têm capacidade de corrente para alimentar o amplificador de ECG (a caixinha azul)"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Esteira",
+    "texto": "Isso não é um problema do programa, e sim da esteira; mais especificamente do adaptador USB / Serial *da esteira*.\nToda vez que o conector da esteira é desconectado/reconectado do micro ou quando o driver do adaptador é atualizado, o número da porta Serial associada a ele pode mudar.\nEssa informação tem que ser passada para o programa; não tem como ele 'adivinhar' que a porta mudou."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Esteira",
+    "texto": "Você sabe abrir o Gerenciador de Dispositivos do Windows?"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Esteira",
+    "texto": "Por favor entre em contato com o fabricante da esteira, a Inbramed. O WhatsApp do suporte deles é: (51) 9169-2705."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Família 98",
+    "texto": "A família '98', como o nome sugere, foi desenvolvida para o antigo *Windows 98*. Paramos de fabricar essa família em 2007 quando lançamos a família de equipamentos 'FÀCIL' que usa portas USB ao invés das seriais usadas pela família 98. Mesmo tendo lançado essa nova família de equipamentos, demos suporte para a família 98 por mais de 10 anos (até 2016) quando decidimos encerrar oficialmente o suporte que ficava mais difícil a cada dia: alguns componentes eletrônicos que antes eram apenas difíceis de achar, ficaram impossíveis; micros sem porta serial e a mudança constante no funcionamento interno do Windows. Chegaram a acontecer situações muito desagradáveis, nas quais não conseguíamos achar um determinado componente eletrônico e o cliente achava que estávamos 'enrolando' para forçar uma troca pelo equipamento mais moderno."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Família 98",
+    "texto": "Pelo número de série que você mencionou,\nPela versão do programa que vc mencionou (2.0.3.5), trata-se de um produto da família '98', desenvolvida para o windows 98. Paramos de fabricar essa família em 2007 e encerramos o suporte em 2016. Se for esse o caso, favor entrar em contato com nosso departamento de vendas (vendas@hw.ind.br ou (31) 9.9954-7226 voz/whatsapp) para estudar opções de upgrade de seu produto."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Família 98",
+    "texto": "Se for um equipamento da linha '98', que tem esse nome porque foi desenvolvida para o antigo Windows 98, já não a produzimos desde 2007, quando lançamos uma família de equipamentos que usam portas USB ao invés das seriais usadas pela família 98."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Família 98",
+    "texto": "Mesmo tendo lançado essa nova família de equipamentos, demos suporte para a família 98 por mais de 10 anos quando decidimos encerrar oficialmente o suporte porque a cada dia ficava mais difícil: alguns componentes eletrônicos que antes eram apenas difíceis de achar, ficaram impossíveis; micros sem porta serial e a mudança constante no funcionamento interno do Windows. Chegaram a acontecer situações muito chatas, nas quais não conseguíamos achar um determinado componente eletrônico e o cliente achava que estávamos 'enrolando' para forçar uma troca pelo equipamento mais moderno."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Família 98",
+    "texto": "O Ergo13 NÃO é compatível com o Ergo98 e, no momento, a única opção é tentar com nosso pessoal de vendas se eles levariam um Ergo98 em conta na troca por um Ergo13."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Família 98",
+    "texto": "O e-mail do depto de vendas é: vendas@hw.ind.br"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Família 98",
+    "texto": "Explique a situação e coloque o número de série vdo seu equipamento no e-mail."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "HeartWare Device",
+    "texto": "Esse cabo USB é bem antigo e vou ter que regravá-lo."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "HeartWare Device",
+    "texto": "No Windows 7: Atualizar normalmente pelo gerenciador de dispositivos"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "HeartWare Device",
+    "texto": "No Windows 10 e 11:\nVamos ter que reiniciar o Windows de um modo diferente. Vou iniciar o processo mas não posso terminá-lo pois a conexão cairá. vá me mandando fotos pelo whatsapp das opções que o Windows for mostrando, ok?\nNúmero do whatsApp: 31 9890-7226\nPara reiniciar ------> Clique no botão de reiniciar do Windows segurando o shift\nUm clique simples (não-duplo) em SOLUÇÃO DE PROBLEMAS\nOPÇÕES AVANÇADAS\nCONFIGURAÇÕES DE INICIALIZAÇÃO. Nessa próxima tela só haverá um botão: 'Reiniciar'. Ao clicar nele, o micro vai reiniciar como se estivesse sendo ligado e eventualmente vai cair numa tela PARECIDA com essa. Quando estiver nessa tela, aperte a tecla '*7*', se nada acontecer, aperte a tecla '*F7*' (no meio e no alto de seu teclado). O Windows vai reiniciar normalmente e, assim que for possível, rode o Teamviewer e passe o ID/Senha."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "HeartWare Device",
+    "texto": "Nessa só há um botão: 'Reiniciar'. Ao clicar nele, o micro vai reiniciar como se estivesse sendo ligado e eventualmente vai cair numa tela PARECIDA com essa. Quando estiver nessa tela, aperte a tecla '*7*', se nada acontecer, aperte a tecla '*F7*' (no meio e no alto de seu teclado). O Windows vai reiniciar normalmente e, assim que for possível, rode o Teamviewer e passe o ID/Senha."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "HeartWare Device",
+    "texto": "https://www.techtudo.com.br/dicas-e-tutoriais/2017/06/como-desativar-a-assinatura-de-driver-no-windows-7.ghtml"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Vocês vão restaurar alguma base de dados com exames antigos ou começar do zero?"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Existe alguma base de dados com exames antigos a ser recuperada ou vai recomeçar do zero? Se for começar do zero, além de perder os exames porventura já feitos, vai ter que recadastrar pacientes, médicos, convênios, etc..."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Vocês vão querer copiar a base de dados com os exames antigos para o micro novo?"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Se for para recuperar alguma base de dados, a hora é agora, senão vão haver duas bases de dados com exames que eventualmente precisarão ser unificadas. Essa unificação tem riscos (dependendo do estado das bases de dados) e custo."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "O custo para unificação é de R$200.00 *a primeira hora*, mais R$100.00 *por hora adicional*."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Se existir alguma base de dados com exames antigos a ser recuperada, copie a pasta C:\\HW\\Database do micro antigo para a Área de Trabalho do micro novo antes pois, dependendo do tamanho da base de dados, essa pode ser a parte mais demorada da instalação."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Copie a pasta Database que fica em C:\\HW (vocês podem ter alterado isso) do micro antigo para a Área de Trabalho do micro novo antes, dependendo do tamanho da base de dados, essa pode ser a parte mais demorada da instalação."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Vocês já fizeram um backup?"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Após a instalação do programa coloque a pasta Database de preferência na área de trabalho do micro, *(NÃO COPIE ELA POR CIMA DA QUE FOI INSTALADA)*, e mande o ID e Senha do Teamviewer."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Vocês só precisam copiar a pasta Database *INTEIRA* que geralmente fica em C:\\HW (Vocês podem ter alterado isso, abra o programa vá em AJUDA -> SOBRE, em cima do botão vai estar o caminho para a Database), apos a instalação do programa coloque a pasta Database de preferência na área de trabalho do micro, *(NÃO COPIE ELA POR CIMA DA QUE FOI INSTALADA)*, e nos chame."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Recuperação de banco de dados:\n1 - Renomear a base de dados do programa já instalado no micro para DatabaseVAZIA caso NÃO tenha exames, caso tenha exames perguntar o que ele(a) quer fazer com ela, (NUNCA apague a base de dados, apenas renomeie ela como DatabaseDESATIVADA_(Data do dia da desativação) caso ele fale para deletar.\n2 - COPIAR o BKP da Database a ser restaurada para a pasta HW\n2.1 - Substituir as pastas Entrada e Saida pelas pastas Entrada e Saida da Database a ser restaurada caso elas estejam lá\n2.2 - Criar as pasta NetDir e Modelos dentro da Database caso elas não estejam lá\n3 - Ir na pasta commom na pasta HW e executar o NETLock\n4 - executar o ConfigBDE; se houver algum ítem em vermelho, corrija; clique em 'Testa BDE'.\n5 - executar o ChecaTab apenas nas tabelas basicas e apenas verificar\n6 - executar o arquivo .reg na Database para restaurar as configurações do usuário\n7 - se não der nem um erro abrir o programa e verificar se os exames estão aparecendo"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Aproveitando o tempo em espera... você tem feito backup da base de dados com os exames?"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Aproveitando a oportunidade, gostaria de lembrar a importância de estabelecer uma política de backups regulares da base de dados."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "É muito simples: abra o programa e vá em AJUDA -> SOBRE; na janela que se abrirá será mostrado o caminho para a base de dados (normalmente 'C:\\HW\\Database', mas vocês podem ter mudado isso); basta fazer uma cópia da pasta indicada na janela SOBRE em sua mídia preferida (rede, HD Externo, Nuvem...). Não recomendamos backups em pendrives por serem mais frágeis e fáceis de perder. IMPORTANTE: *sempre* faça um backup completo da pasta 'Database' e sub-pastas; da mesma forma, caso seja necessário restaurar um backup, NUNCA copie-o por sobre a base danificada: mova-a para outro local ou renomeie-a e, então, copie a pasta 'Database' completa de seu backup para dentro da pasta 'C:\\HW' do micro onde os exames são feitos. Coloque sempre a DATA do backup no nome da pasta. Exemplo: BkpDatabaseHWaammdd. Isso evita sobrescrever uma Database sobre outra e facilita a identificação."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "*NUNCA* copie uma base Database por cima de outra! *Sempre* renomeie/mova/apague a atual antes de copiar o backup para seu lugar."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Você deve fazer backups de TODOS os programas usados nesse micro, não só os da HW."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Quando terminar, mova esse arquivo DatabaseDDMMAA.rar para fora desse micro: para outro computador na rede, para um HD externo, para a nuvem (OneDrive, DropBox, Google Drive...). O importante é que ele não fique no mesmo micro onde os dados originais estão porque se o HD desse micro pifar ou for destruído por um vírus, o backup estará seguro em outro local."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Seu micro já tem um programa instalado que facilita MUITO os backups: é o WinRAR."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Só estou chamando a atenção para os backups porque tivemos um cliente que foi infectado por um desses vírus que criptografam (embaralham) o HD e pedem um resgate para desembaralhar os arquivos... ele perdeu 4 anos de ECGs, MAPAs, Holters e todos os dados do programa de consultório dele. :-("
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "A primeira coisa a se fazer é o backup dos dados do micro antigo. Para isso, faça uma cópia da pasta C:\\HW para um pendrive/hd externo/rede... e copie-a para a Área de Trabalho do micro novo. É importante fazer isso primeiro porque, dependendo do tamanho da base de dados, essa pode ser a operação mais demorada."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Comando para não criar ponto de restauração:\n/NO_RESTORE_POINT"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Database Danificada",
+    "texto": "Atalho Database Danificada\nUtilizar o arquivo 'ergo_db_danificada.bat'\n\\DBPath:'Caminho_Base_De_Dados' /REMOTO\nC:\\HW\\ECG\\ecg_db_danificada.bat /DBPath:'C:\\HW\\Database_DANIFICADA' /REMOTO"
   },
   {
     "categoria": "Configuração",
@@ -198,6 +473,21 @@
     "categoria": "Configuração",
     "subcategoria": "Configuração Inicial",
     "texto": "Tem uma logomarca que queira colocar na tela e/ou no cabeçalho do laudo? (pode ser de facebook ou site)"
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Assinatura Digital",
+    "texto": "Basta pegar uma folha em branco, afixar o carimbo do CRM e pedir para o médico assinar por cima.\nEscaneie essa assinatura gerando um arquivo JPG com menos de 50KBytes e, no programa, entrar no cadastro dos médicos responsáveis e adicionar a imagem.\nSerá pedida uma senha e sua confirmação.\nESSA SENHA NÃO PODE SER ESQUECIDA POIS ELA NÃO É ARMAZENADA EM LUGAR ALGUM! NEM AQUI NA FÁBRICA PODEMOS RECUPERÁ-LA.\nUma vez cadastrada a assinatura, para assinar um documento, basta clicar no cadeadinho no alto e à direita do Editor de Conclusões Finais e digitar a senha.\nUm arquivo assinado só pode ser editado mediante digitação da senha do médico responsável."
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Configurações Mínimas",
+    "texto": "Por ser um programa em TEMPO REAL, ele tem características bastante específicas e é bem 'pesado': recebe + ou - 150KBytes da caixinha azul POR SEGUNDO, tem que separar e filtrar esses canais, mostrar na tela, gravar no HD, imprimir *gráficos* (não é texto simples) de página cheia, tratar mouse e teclado, etc... tudo isso com um atraso da ordem de milisegundos entre o evento no peito do paciente e sua exibição na tela. Por isso, qq coisa que 'roube' CPU para si pode atrapalhar bastante.\nO caso de Ergometrias e Teste Cardiopulmonar tem outro agravante: normalmente, as esteiras desligam se não receberem comandos por mais 500 milisegundos."
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Configurações Mínimas",
+    "texto": "Configuração mínima do micro:\n- CPU multi-core (i5 com 4 núcleos ou superior) com velocidade 3.0 GHz ou superior \n- 8GB de RAM (1GB e for WIndow 11)7\n- Conexão internet para download do programa de instalação\n- 50 GB livres no disco rígido \n- Windows® 10 ou 11\n- Tela no formato 16:9 com resolução mínima de 1280x720 em 256 cores\n- Impressora compatível com o sistema operacional\n- 1 porta USB 2.0 disponível (o equipento *NÃO* pode ficar conectado a um HUB USB)\n- Segurança elétrica do computador, periféricos e rede elétrica de acordo com as normas aplicáveis\n- Se for o caso, portas seriais livres para controle de periféricos (esteira / cicloergômetro / analisador de gases / oxímetro de pulso)."
   },
   {
     "categoria": "Manutenção",

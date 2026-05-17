@@ -1,3 +1,6 @@
+import 'dart:convert';
+import 'package:appfrases/utils/frase_card.dart';
+import 'package:flutter/services.dart';
 import 'package:appfrases/utils/menutile.dart';
 import 'package:flutter/material.dart';
 
@@ -10,9 +13,32 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   String submenuSelecionado = "";
+  List<dynamic> frasesCarregadas = [];
+
+  Future<void> carregarFrases() async {
+    final String resposta = await rootBundle.loadString(
+      'assets/data/frases.json',
+    );
+    //print(resposta);
+    final List<dynamic> dados = jsonDecode(resposta);
+
+    setState(() {
+      frasesCarregadas = dados;
+    });
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    carregarFrases();
+  }
 
   @override
   Widget build(BuildContext context) {
+    final frasesFiltradas = frasesCarregadas.where((frase) {
+      return frase["subcategoria"] == submenuSelecionado;
+    }).toList();
+
     return Scaffold(
       body: Row(
         children: [
@@ -45,9 +71,6 @@ class _HomePageState extends State<HomePage> {
                             "Número de Série",
                             "Instalação",
                             "Ruído no Sinal",
-                            "Conectores",
-                            "Esteira",
-                            "Assinatura Digital",
                             "Avaliação de Suporte",
                           ],
                           onSubmenuClick: (titulo) {
@@ -60,11 +83,10 @@ class _HomePageState extends State<HomePage> {
                         Menutile(
                           titulo: "Hardware",
                           listaSubmenus: [
-                            "USB",
-                            "Amplificador",
-                            "Cabo Paciente",
+                            "Erro Amplificador",
+                            "Esteira",
                             "Família 98",
-                            "Drivers",
+                            "HeartWare Device",
                           ],
                           onSubmenuClick: (titulo) {
                             setState(() {
@@ -76,8 +98,7 @@ class _HomePageState extends State<HomePage> {
                         Menutile(
                           titulo: "Database",
                           listaSubmenus: [
-                            "Backup",
-                            "Restauração",
+                            "Backup / Restauração",
                             "Database Danificada",
                             "Rede",
                             "ConfigBDE",
@@ -143,7 +164,8 @@ class _HomePageState extends State<HomePage> {
                           titulo: "Configuração",
                           listaSubmenus: [
                             "Configuração Inicial",
-                            "Windows",
+                            "Assinatura Digital",
+                            "Configurações Mínimas",
                             "Regedit",
                             "Performance",
                             "Impressão",
@@ -247,6 +269,19 @@ class _HomePageState extends State<HomePage> {
                             ),
                           ),
                         ],
+                      ),
+                    ),
+                  ),
+                  Expanded(
+                    child: Padding(
+                      padding: const EdgeInsets.all(30),
+                      child: ListView.builder(
+                        itemCount: frasesFiltradas.length,
+                        itemBuilder: (context, index) {
+                          final frase = frasesFiltradas[index];
+
+                          return FraseCard(texto: frase["texto"]);
+                        },
                       ),
                     ),
                   ),
