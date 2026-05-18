@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
               child: Column(
                 children: [
                   Padding(
-                    padding: const EdgeInsets.only(top: 10.0),
+                    padding: const EdgeInsets.only(top: 15.0),
                     child: const Text(
                       "HW SUPORTE",
                       style: TextStyle(
@@ -230,6 +230,7 @@ class _HomePageState extends State<HomePage> {
                       decoration: InputDecoration(
                         hintText: "Pesquisar frase...",
                         prefixIcon: const Icon(Icons.search),
+                        //hoverColor: Color.fromARGB(255, 171, 197, 223),
                         filled: true,
                         fillColor: Colors.white,
                         border: OutlineInputBorder(
@@ -242,7 +243,7 @@ class _HomePageState extends State<HomePage> {
 
                   Expanded(
                     child: Padding(
-                      padding: const EdgeInsets.all(30),
+                      padding: const EdgeInsets.only(left: 30, right: 30, top: 10, bottom: 10),
                       child: ListView.builder(
                         itemCount: frasesFiltradas.length,
                         itemBuilder: (context, index) {
