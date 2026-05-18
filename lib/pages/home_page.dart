@@ -38,9 +38,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     final frasesFiltradas = frasesCarregadas.where((frase) {
       final texto = frase["texto"].toString().toLowerCase();
-
       final correspondePesquisa = texto.contains(pesquisa.toLowerCase());
-
       final correspondeSubmenu = frase["subcategoria"] == submenuSelecionado;
 
       return correspondePesquisa && correspondeSubmenu;
@@ -200,16 +198,19 @@ class _HomePageState extends State<HomePage> {
                     child: Padding(
                       padding: const EdgeInsets.only(left: 30),
                       child: Row(
-                        spacing: 30,
                         //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: [
                           Image.asset("../../assets/images/logo.png"),
-                          Text(
-                            submenuSelecionado,
-                            style: TextStyle(
-                              fontSize: 30,
-                              color: const Color(0xFF028FCF),
-                              fontWeight: FontWeight.w500,
+                          const SizedBox(width: 20),
+                          Expanded(
+                            child: Text(
+                              submenuSelecionado,
+                              overflow: TextOverflow.ellipsis,
+                              style: TextStyle(
+                                fontSize: 30,
+                                color: const Color(0xFF028FCF),
+                                fontWeight: FontWeight.w500,
+                              ),
                             ),
                           ),
                         ],
