@@ -200,7 +200,7 @@ class _HomePageState extends State<HomePage> {
                       child: Row(
                         //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: [
-                          Image.asset("../../assets/images/logo.png"),
+                          Image.asset("assets/images/logo.png"),
                           const SizedBox(width: 20),
                           Expanded(
                             child: Text(
