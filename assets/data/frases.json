@@ -42,7 +42,7 @@
   {
     "categoria": "Suporte Remoto",
     "subcategoria": "TeamViewer",
-    "texto": "- Feche qualquer outra versão do TeamViewer que porventura esteja aberta.\n- Na sua Área de Trabalho, abra o atalho 'Meu Computador' ou 'Este Computador' ou 'Computador' (depende de sua versão do Windows)\n\n- Selecione o disco C: (ou Windows - (C:) ou Disco Local (C:))\n- Selecione a pasta HW\n- Selecione a pasta Common\n- Dê um clique duplo no programa 'SuporteRemotoHW.exe' (requer acesso à internet)\n- Passe o ID e Senha gerados para o WhatsApp (31) 9.9890-7226"
+    "texto": "- Feche qualquer outra versão do TeamViewer que porventura esteja aberta.\n- Na sua Área de Trabalho, abra o atalho 'Meu Computador' ou 'Este Computador' ou 'Computador' (depende de sua versão do Windows)\n- Selecione o disco C: (ou Windows - (C:) ou Disco Local (C:))\n- Selecione a pasta HW\n- Selecione a pasta Common\n- Dê um clique duplo no programa 'SuporteRemotoHW.exe' (requer acesso à internet)\n- Passe o ID e Senha gerados para o WhatsApp (31) 9.9890-7226"
   },
   {
     "categoria": "Suporte Remoto",
@@ -651,6 +651,16 @@
   },
   {
     "categoria": "Configuração",
+    "subcategoria": "Configuração Inicial",
+    "texto": "Tome muito cuidado quando for fazer alguma correção no nome de um paciente. NUNCA altere o nome totalmente, por exemplo, de 'Fulano' para 'Ciclano' pois, se existir mais de um exame em nome de 'Fulano', TODOS os exames passarão para o paciente 'Ciclano', o que pode ter implicações clínicas sérias para os pacientes, para o médico responsável e para a clínica como um todo. Se precisar MUDAR o nome de um paciente (não apenas corrigir algum errinho de digitação), entre em contato conosco e para estudarmos as possibilidades remotamente. Ok?"
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Configuração Inicial",
+    "texto": "Um bom cliente de e-mail 32 bits é o 'Thunderbird' (gratuito e Open Source), que pode ser baixado desse link:\nhttps://download.mozilla.org/?product=thunderbird-115.7.0-SSL&os=win&lang=pt-BR"
+  },
+  {
+    "categoria": "Configuração",
     "subcategoria": "Assinatura Digital",
     "texto": "Basta pegar uma folha em branco, afixar o carimbo do CRM e pedir para o médico assinar por cima.\nEscaneie essa assinatura gerando um arquivo JPG com menos de 50KBytes e, no programa, entrar no cadastro dos médicos responsáveis e adicionar a imagem.\nSerá pedida uma senha e sua confirmação.\nESSA SENHA NÃO PODE SER ESQUECIDA POIS ELA NÃO É ARMAZENADA EM LUGAR ALGUM! NEM AQUI NA FÁBRICA PODEMOS RECUPERÁ-LA.\nUma vez cadastrada a assinatura, para assinar um documento, basta clicar no cadeadinho no alto e à direita do Editor de Conclusões Finais e digitar a senha.\nUm arquivo assinado só pode ser editado mediante digitação da senha do médico responsável."
   },
@@ -753,5 +763,15 @@
     "categoria": "Frases Gerais",
     "subcategoria": "Saudação",
     "texto": "Disponha! Tenha uma boa tarde, e um excelente serviço!"
+  },
+  {
+    "categoria": "Frases Gerais",
+    "subcategoria": "Saudação",
+    "texto": "Se a gente não se falar mais esse ano, um feliz Natal e um ótimo ano novo pra você e para os seus!!! :-)"
+  },
+  {
+    "categoria": "Frases Gerais",
+    "subcategoria": "Encerramento",
+    "texto": "Nosso suporte funciona das 8:30h às 12:00h e das 13:30h às 17:00h de segunda a sexta-feira, exceto feriados. Se precisar de algo fora desse horário, por favor, deixe uma mensagem que responderemos assim que possível. Tenha um ótimo dia!"
   }
 ]

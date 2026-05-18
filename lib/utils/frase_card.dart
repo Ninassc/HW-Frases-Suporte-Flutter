@@ -19,7 +19,7 @@ class FraseCard extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
+            SelectableText(
               texto,
               style: const TextStyle(
                 fontSize: 15,

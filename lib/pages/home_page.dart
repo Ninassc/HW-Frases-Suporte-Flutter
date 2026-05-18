@@ -12,7 +12,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  String submenuSelecionado = "";
+  String submenuSelecionado = "Atendimento";
+  String pesquisa = "";
   List<dynamic> frasesCarregadas = [];
 
   Future<void> carregarFrases() async {
@@ -36,7 +37,13 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     final frasesFiltradas = frasesCarregadas.where((frase) {
-      return frase["subcategoria"] == submenuSelecionado;
+      final texto = frase["texto"].toString().toLowerCase();
+
+      final correspondePesquisa = texto.contains(pesquisa.toLowerCase());
+
+      final correspondeSubmenu = frase["subcategoria"] == submenuSelecionado;
+
+      return correspondePesquisa && correspondeSubmenu;
     }).toList();
 
     return Scaffold(
@@ -157,7 +164,7 @@ class _HomePageState extends State<HomePage> {
                           listaSubmenus: [
                             "Atendimento",
                             "Vendas",
-                            "Manutenção"                       
+                            "Manutenção",
                           ],
                           onSubmenuClick: (titulo) {
                             setState(() {
@@ -168,10 +175,7 @@ class _HomePageState extends State<HomePage> {
 
                         Menutile(
                           titulo: "Frases Gerais",
-                          listaSubmenus: [
-                            "Saudação",
-                            "Encerramento",
-                          ],
+                          listaSubmenus: ["Saudação", "Encerramento"],
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
@@ -212,6 +216,30 @@ class _HomePageState extends State<HomePage> {
                       ),
                     ),
                   ),
+
+                  Padding(
+                    padding: const EdgeInsets.all(20),
+
+                    child: TextField(
+                      onChanged: (valor) {
+                        setState(() {
+                          pesquisa = valor;
+                        });
+                      },
+
+                      decoration: InputDecoration(
+                        hintText: "Pesquisar frase...",
+                        prefixIcon: const Icon(Icons.search),
+                        filled: true,
+                        fillColor: Colors.white,
+                        border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(12),
+                          borderSide: BorderSide.none,
+                        ),
+                      ),
+                    ),
+                  ),
+
                   Expanded(
                     child: Padding(
                       padding: const EdgeInsets.all(30),

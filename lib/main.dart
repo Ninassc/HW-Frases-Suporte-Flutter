@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Poppins',
         splashColor: Colors.transparent,
         highlightColor: Colors.transparent,
-        
+
         dividerColor: Colors.transparent,
 
         appBarTheme: AppBarTheme(
@@ -33,6 +33,12 @@ class MyApp extends StatelessWidget {
 
           textColor: Colors.white,
           collapsedTextColor: Colors.white,
+        ),
+
+        textSelectionTheme: const TextSelectionThemeData(
+          selectionColor: Color(0x55028FCF),
+          selectionHandleColor: Color(0xFF028FCF),
+          cursorColor: Color(0xFF028FCF),
         ),
       ),
       home: HomePage(),
