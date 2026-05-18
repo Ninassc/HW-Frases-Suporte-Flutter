@@ -22,7 +22,12 @@
   {
     "categoria": "Suporte Remoto",
     "subcategoria": "Atendimento",
-    "texto": "Qualquer dúvida, entre em contato com *Edi*: (31)3461-7226, e-mail: atendimento@hw.ind.br, Cel/WhatsApp: (31)9.9711-7226 (horário comercial)."
+    "texto": "Tenho outros clientes para dar suporte, e eles estão esperando com seus equipamentos parados. Você não ficaria muito feliz no lugar deles..."
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Atendimento",
+    "texto": "Isso é muito injusto... imagine o seguinte cenário: o Sr. está em consulta com um paciente e há vários outros na sala de espera. O Sr. vai fazendo a anamnese e cada pergunta demora 5 minutos para ser respondida porque o paciente não está acompanhando a consulta como devia, o que além de ser um desrespeito com o Sr., acaba prejudicando os pacientes que esperam pelo Sr. Vê a semelhança?"
   },
   {
     "categoria": "Suporte Remoto",
@@ -116,8 +121,48 @@
   },
   {
     "categoria": "Suporte Remoto",
+    "subcategoria": "Instalação",
+    "texto": "Vou desconectar para liberar banda na sua internet e melhorar a velocidade de download."
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Instalação",
+    "texto": "Reconecto em XX minutos. Se terminar de baixar antes, me avise pelo WhatsApp (31) 9.9890-7226. (anote o número pois vai sumir quando eu desconectar)"
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Instalação",
+    "texto": "Se eu não reconectar até um minuto depois do Windows reiniciar, me mande o id/senha novamente pelo WhatsApp"
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Instalação",
+    "texto": "Me avise quando terminar de baixar no WhatsApp (31) 9.9890-7226. (anote o número pois vai sumir quando eu desconectar)"
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Ruído no Sinal",
+    "texto": "Cores dos Rabichos\nC1: cinza e vermelho\nC2: cinza e amarelo\nC3: cinza e verde\nC4: cinza e marrom\nC5: cinza e preto\nC6: cinza e violeta\n*M não é usado para o ECGV6 apenas no Ergo13*\nL: rabicho *amarelo*   (braço esquerdo)\nF: rabicho *verde*     (perna esquerda)\nR: rabicho *vermelho*  (braço direito)\nN: rabicho *preto*     (perna direita)\nÉ importante atentar para não confundir os rabichos precordiais (C1 a C6) que tem cores mistas, ou seja, cinza com uma outra cor com os rabichos de membros (L,F,R e N) que tem uma única cor."
+  },
+  {
+    "categoria": "Suporte Remoto",
     "subcategoria": "Ruído no Sinal",
     "texto": "Esta utilizando gel de ultrassom?\n|Sim: Pedir ao cliente para limpar o gel e realizar o exame novamente.\n|Não: O ruido é observado em apenas uma derivação?\n      |\tSim: |A derivação é precordial (V1-V6 e MA)?\n      |\t     |\tSim: Pedir ao cliente para pegar o rabicho cuja derivação esta com o ruido e trocar por outro que nao esteja com ruido.\n      |\t     |\t\tO ruido mudou de derivação?\n      |      | \t\t|\tSim: Pedir ao cliente para enviar o cabo paciente para manutenção.\n      |\t     |\t\t|\tNão: Pedir ao cliente para enviar o amplificador para manutenção.\n      |\t     |\tNão: Pedir o cliente para enviar o CONJUNTO amplificador + cabo paciente para manutenção.\n      |\tNão: O ruido é observado em todas as derivações?\n\t     |\tSim: É possivel testar com outro cabo, ou trocando os rabichos vermelho (RA) e preto (TL)?\n\t     |\t     | Sim: Apos a troca o problema permaneceu?\n\t     |\t\t    | Sim: Pedir o cliente para enviar o amplificador para manutenção.\n\t     |\t\t    | Não: Pedir ao cliente para enviar o cabo paciente para manutenção.\n\t     |\tNão: Pedir o cliente para enviar o CONJUNTO amplificador + cabo paciente para manutenção."
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Ruído no Sinal",
+    "texto": "A equação para cálculo de aVF é: aVF = (II+III)/2; caso II e III sejam iguais mas com polaridade invertida (II = -III ou III = -II), a derivação resultaria isoelétrica, o que é parecido com o caso da foto. É normal isso acontecer em alguns pacientes, mas não em todos. Pela foto, parece que todas as periféricas estão um pouco diminuídas (o que pode ou não ser fisiológico) e esse padrão já se apresentava na foto que o Sr. mandou em 04/05/18. Supondo que não seja fisiológico, temos algumas possibilidades a verificar: \n1) oxidação/oleosidade nas conexões dos eletrodos/cardioclips com o cabo do ecg - basta checar e limpar as partes com uma gaze embebida em álcool; \n2) se o Sr. usa gel condutor, alguns clientes têm reclamado da qualidade do mesmo e verificamos que tem se tornado razoavelmente comum a venda de gel de ultrassom como se fosse gel de ECG quando, na verdade, eles possuem propriedades elétricas opostas; sugerimos fazer alguns ECGs sem gel para testar essa hipótese;\n3) aterramento do micro: seria interessante vermos esse sinal com o filtro de 35Hz desligado, para vermos o que está efetivamente chegando no micro e talvez termos uma pista do que possa estar ocorrendo;\n4) defeito no cabo de paciente ou na caixinha azul do ECG. Acho que seria interessante analisarmos as possibilidades de (1) a (3) antes de enviar o equipamento para manutenção."
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Ruído no Sinal",
+    "texto": "Essa interferência é típica de alta impedância entre a pele e o eletrodo. As diretrizes da Sociedade Brasileira de Cardiologia recomendam uma série de procedimentos mas, acho que no seu caso, bastaria uma limpeza com uma gaze embebida em álcool."
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Ruído no Sinal",
+    "texto": "O registro deve ter sido feito antes de atingir 1/3 da fase e atingir o 'steady-state'. Nesses casos, o programa considera o VO2 do estágio anterior pois o organismo do paciente ainda não se adaptou à nova carga imposta pela nova fase do protocolo. Quando se faz o relatório AO FINAL DO TESTE, considera-se o máximo absoluto imposto ao paciente ao longo do teste. É uma metodologia da HW, que nos parece fazer sentido do ponto de vista fisiológico. OK?"
   },
   {
     "categoria": "Suporte Remoto",
@@ -126,8 +171,18 @@
   },
   {
     "categoria": "Suporte Remoto",
+    "subcategoria": "Ruído no Sinal",
+    "texto": "Caso não consiga identificar o tipo de gel, limpe bem os eletrodos e a pele do paciente faça um teste sem a aplicação de gel."
+  },
+  {
+    "categoria": "Suporte Remoto",
     "subcategoria": "Avaliação de Suporte",
     "texto": "Disponha! Tenha uma boa tarde, e um excelente serviço!\nSe puder, avalie nosso suporte em nosso site em:\nhttps://www.hw.ind.br/depoimentos/"
+  },
+  {
+    "categoria": "Suporte Remoto",
+    "subcategoria": "Avaliação de Suporte",
+    "texto": "*Avaliação do SUPORTE*\nEstamos avaliando nossos atendimentos.\nQuando puder dispor de 1 minuto, nos avalie *anonimamente* em:\nhttps://pt.surveymonkey.com/r/SuporteHW"
   },
   {
     "categoria": "Hardware",
@@ -158,6 +213,11 @@
     "categoria": "Hardware",
     "subcategoria": "Erro Amplificador",
     "texto": "Esse conector é semelhante ao usado em teclados (muda apenas o número de pinos) e tem uma guia metálica externa com três chanfros-guia e um pino-guia plástico interno para prevenir conexão incorreta."
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Erro Amplificador",
+    "texto": "Deve-se SEMPRE observar as guias:\n1) metálica na lateral do conector;\n2) plástica no interior, no meio dos pinos metálicos.\nEsse conector é MUITO parecido com o conector de mouse e teclado, não deveria haver tanto problema."
   },
   {
     "categoria": "Hardware",
@@ -218,6 +278,16 @@
     "categoria": "Hardware",
     "subcategoria": "Erro Amplificador",
     "texto": "A vasta maioria dos hubs USB não têm capacidade de corrente para alimentar o amplificador de ECG (a caixinha azul)"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Esteira",
+    "texto": "Qual é a MARCA e o MODELO da esteira?"
+  },
+  {
+    "categoria": "Hardware",
+    "subcategoria": "Esteira",
+    "texto": "A esteira está pronta para um teste? (a esteira está ligada, configurada para 'conversar' com o computador e o cabo de conexão conectado ao micro?)"
   },
   {
     "categoria": "Hardware",
@@ -401,8 +471,108 @@
   },
   {
     "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Os arquivos '.BIN' não são estritamente necessários. Dos XX.X GBytes da pasta Database, YY.YGBytes são arquivos BIN! Eles contêm TODO o traçado eletrocardiográfico do início ao fim da monitorização. Toda vez que um registro é feito, a parte relevante necessária para a impressão é copiada para uma aquivo em separado, de forma que esse arquivo BIN fica redundante e normalmente desnecessário. A única tela do programa que pode acessá-lo é a tela FULL DISCLOSURE:"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Backup / Restauração",
+    "texto": "Talvez fosse interessante apagar os exames de alguns anos pra trás então; o programa tem esse recurso.\nO que REALMENTE ocupa espaço, são os traçados, podemos apagar apenas o traçados, deixando os laudos de cada exame."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Database Danificada",
+    "texto": "Segue o exame que foi recuperado em nosso laboratório. IMPORTANTE: esse exame recuperado de arquivos *bastante danificados* e pode (ou não) corresponder à realidade do exame, de forma que é *essencial* que apenas o médico responsável pelo exame faça esse julgamento.\nCom os danos observados, pode ter ocorrido troca de pacientes! Exemplo: um exame danificado pode abrir como se fosse de 'D. Maria' mas, na verdade, são traçados do 'Sr. José'... MUITO CUIDADO ao analisar esse(s) exame(s)!\nSegue também um PDF mostrando o que pudemos recuperar que, como já dissemos, deve ser avaliado somente pelo médico responsável pelo exame."
+  },
+  {
+    "categoria": "Database",
     "subcategoria": "Database Danificada",
     "texto": "Atalho Database Danificada\nUtilizar o arquivo 'ergo_db_danificada.bat'\n\\DBPath:'Caminho_Base_De_Dados' /REMOTO\nC:\\HW\\ECG\\ecg_db_danificada.bat /DBPath:'C:\\HW\\Database_DANIFICADA' /REMOTO"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Rede",
+    "texto": " 1 - Copiar o caminho para a Database do servidor pela rede do explorer: TODOS os micros têm que usar esse caminho, algo como: \\SalaDeExames\\DiscoC\\HW\\Database  ou  \\Servidor\\HW\\Database\n2 - Abrir o regedit (windows + R), ir em Computador\\HKEY_CURRENT_USER\\SOFTWARE\\HeartWare\\ECGV6 ou ERGO13 ou ERGOMET13\\Geral\n3 - Criar (ou editar) um 'Valor da Cadeia de Caracteres' com o nome Caminho Database do passo 1 acima\n4 - Abrir o Caminho Database e colar o caminho para a Database\n5 - Ir à pasta Commom na pasta HW e rodar o ConfigBDE\n6 - Configurar o caminho do ConfigBDE para o mesmo caminho do Caminho Database, mas apontando para o NetDir no final (Database\\NetDir)\n7 - Clicar no botão [!] à direita do campo NETDIR\n8 - Abrir o programa e verificar se funcionou\n8.1 - Caso tenha mais de 1 micro usando a Database, repetir isso para TODOS, com o mesmo caminho\n8.2 - Abrir 1 exame em máquinas diferentes ao mesmo tempo, e tentar abrir a mesma ficha de paciente ao mesmo tempo (ícone de uma pessoa)\n8.3 - Tentar abrir a ficha de anamnese em máquinas diferentes ao mesmo tempo (ícone de um estetoscópio)\nNota: o programa NÃO deve permitir que a mesma ficha de paciente ou anamnese seja aberta em máquinas diferentes ao mesmo tempo, mas deve permitir que a ficha de paciente e a ficha de anamnese sejam abertas em micros diferentes ao mesmo tempo."
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "NETLock",
+    "texto": "Rode o programa C:\\HW\\Common\\NETLoCK.exe e clique em BUSCA RÁPIDA.\nAbra 'Meu Computador' (ou 'Este Computador' ou 'Computador', dependendo da versão de seu Windows\nSelecione disco C:\nAbra a pasta HW\nDentro da pasta HW, abra a pasta Common\nDentro da pasta Common, rode o programa NETLoCK.exe e clique em BUSCA RÁPIDA.\nDepois tente abrir o ECG novamente"
+  },
+  {
+    "categoria": "Database",
+    "subcategoria": "Segurança",
+    "texto": "Seu micro está com esse KMS instalado. Por favor, leia esse post do suporte da Microsoft:\nhttps://answers.microsoft.com/pt-br/windows/forum/windows_10-security/autokms/368ebffa-5943-4639-b8f8-020e0a588bab\n'Esta é uma ferramenta 'crack' utilizada para ativar cópias piratas do Windows, na maioria das vezes carrega em sua escrita arquivos maliciosos, primeiro desinstale o software do Windows, aperte Win+R e digite o comando appwiz.cpl e procure por KMSpico, depois faça um varredura completa com seu antívírus e depois com o Malwarebytes Baixe aqui!'\nVeja com com seu pessoal de informática se ele pode ser removido (altamente recomendável!)"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ECGV6",
+    "texto": "https://tinyurl.com/InstaladorECGV6"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ECGV11",
+    "texto": "https://tinyurl.com/ecgv11-instalador"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "Ergo13",
+    "texto": "https://tinyurl.com/InstaladorErgo13"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ErgoMET",
+    "texto": "https://tinyurl.com/InstaladorErgoMET13"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ErgoCP",
+    "texto": "https://tinyurl.com/InstaladorErgo13CP"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ECGV6",
+    "texto": "https://tinyurl.com/AtualizadorECGV6"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ECGV11",
+    "texto": "https://tinyurl.com/ecgv11-atualizador"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "Ergo13",
+    "texto": "https://tinyurl.com/AtualizadorErgo13"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ErgoMET",
+    "texto": "https://tinyurl.com/AtualizadorErgoMET13"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ErgoCP",
+    "texto": "https://tinyurl.com/AtualizadorErgo13CP"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ECGV6",
+    "texto": "https://tinyurl.com/ManualECGV6PDF"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "Ergo13",
+    "texto": "https://tinyurl.com/ManualErgo13PDF"
+  },
+  {
+    "categoria": "Instaladores",
+    "subcategoria": "ErgoMET",
+    "texto": "https://tinyurl.com/ManualErgoMET13PDF"
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Configuração Inicial",
+    "texto": "Vídeo sobre o Ergo13: https://youtu.be/tPfo6IuG33o "
   },
   {
     "categoria": "Configuração",
@@ -476,6 +646,11 @@
   },
   {
     "categoria": "Configuração",
+    "subcategoria": "Configuração Inicial",
+    "texto": "PARA QUEM NÃO GOSTAR DA ESCALA (10mm/mV) EM CADA DERIVAÇÃO E PEDIR PRA TIRAR:\nIsso foi incluído por divergências na interpretação de mudanças nas normas técnicas Inmetro/ABNT/ANVISA.\nEstamos estudando com esses órgãos a possibilidade de podermos colocar essa escala como opcional, mas depende fundamentalmente deles.\nNós também não gostamos disso, mas não podemos evitar por enquanto... 🙁"
+  },
+  {
+    "categoria": "Configuração",
     "subcategoria": "Assinatura Digital",
     "texto": "Basta pegar uma folha em branco, afixar o carimbo do CRM e pedir para o médico assinar por cima.\nEscaneie essa assinatura gerando um arquivo JPG com menos de 50KBytes e, no programa, entrar no cadastro dos médicos responsáveis e adicionar a imagem.\nSerá pedida uma senha e sua confirmação.\nESSA SENHA NÃO PODE SER ESQUECIDA POIS ELA NÃO É ARMAZENADA EM LUGAR ALGUM! NEM AQUI NA FÁBRICA PODEMOS RECUPERÁ-LA.\nUma vez cadastrada a assinatura, para assinar um documento, basta clicar no cadeadinho no alto e à direita do Editor de Conclusões Finais e digitar a senha.\nUm arquivo assinado só pode ser editado mediante digitação da senha do médico responsável."
   },
@@ -488,6 +663,21 @@
     "categoria": "Configuração",
     "subcategoria": "Configurações Mínimas",
     "texto": "Configuração mínima do micro:\n- CPU multi-core (i5 com 4 núcleos ou superior) com velocidade 3.0 GHz ou superior \n- 8GB de RAM (1GB e for WIndow 11)7\n- Conexão internet para download do programa de instalação\n- 50 GB livres no disco rígido \n- Windows® 10 ou 11\n- Tela no formato 16:9 com resolução mínima de 1280x720 em 256 cores\n- Impressora compatível com o sistema operacional\n- 1 porta USB 2.0 disponível (o equipento *NÃO* pode ficar conectado a um HUB USB)\n- Segurança elétrica do computador, periféricos e rede elétrica de acordo com as normas aplicáveis\n- Se for o caso, portas seriais livres para controle de periféricos (esteira / cicloergômetro / analisador de gases / oxímetro de pulso)."
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Aterramento",
+    "texto": "Não se esqueça de verificar o aterramento do micro e da esteira com um eletricista de confiança. Esse aterramento é *obrigatório por norma* para equipamentos médicos."
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Aterramento",
+    "texto": "*ATENÇÃO*: não usar o *Neutro* da rede elétrica como se fosse *Terra*!"
+  },
+  {
+    "categoria": "Configuração",
+    "subcategoria": "Aterramento",
+    "texto": "Uma GAMBIARRA que vc pode pedir para o seu eletricista fazer é o seguinte:\npeça para ele medir a tensão entre a carcaça da esteira e a carcaça do micro (medir em partes metálicas sem tinta).Essa tensão TEM que ser bem próximo de ZERO; se não for, tem algo errado no aterramento; se for próximo de ZERO, peça para ele conectar as duas carcaças com um fio. Lembre-se: isso é uma GAMBIARRA TEMPORÁRIA até que se resolva o problema na origem (aterramento)."
   },
   {
     "categoria": "Manutenção",
@@ -543,5 +733,25 @@
     "categoria": "Manutenção",
     "subcategoria": "Prazo",
     "texto": "Depende da fila de aparelhos em manutenção: \nda mesma forma que você não gostaria que passássemos alguém na sua frente, não podemos passar você na frente de ninguém - o processo é em estrita fila indiana mas, NORMALMENTE, demora de 3 a 4 dias: quando o equipamento chega, é feita uma avaliação e entramos em contato passando um orçamento para sua aprovação (ou não)."
+  },
+  {
+    "categoria": "Contatos",
+    "subcategoria": "Atendimento",
+    "texto": "Qualquer dúvida, entre em contato com *Edi*:\nTelefone: (31)3461-7226,\ne-mail: atendimento@hw.ind.br,\nCel/WhatsApp: (31)9.9711-7226 (horário comercial)."
+  },
+  {
+    "categoria": "Contatos",
+    "subcategoria": "Vendas",
+    "texto": "Obrigado pelo contato, mas esse canal é para Suporte ao Usuário.\nPara vendas, entre em contato com *Robson* pelo:\nCel/WhatsApp (31)9.9954-7226;\ntelefone (31)3461-7226;\ne-mail vendas@hw.ind.br."
+  },
+  {
+    "categoria": "Contatos",
+    "subcategoria": "Manutenção",
+    "texto": "Obrigado pelo contato, mas esse canal é para Suporte ao Usuário.\nPara manutenção, entre em contato com *Edi*:\nTelefone: (31)3461-7226 (WhatsApp/Voz),\ne-mail: atendimento@hw.ind.br,\nCel/WhatsApp: (31)9.9711-7226;"
+  },
+  {
+    "categoria": "Frases Gerais",
+    "subcategoria": "Saudação",
+    "texto": "Disponha! Tenha uma boa tarde, e um excelente serviço!"
   }
 ]

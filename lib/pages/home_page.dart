@@ -101,9 +101,7 @@ class _HomePageState extends State<HomePage> {
                             "Backup / Restauração",
                             "Database Danificada",
                             "Rede",
-                            "ConfigBDE",
                             "NETLock",
-                            "Migração de Micro",
                             "Segurança",
                           ],
                           onSubmenuClick: (titulo) {
@@ -119,39 +117,8 @@ class _HomePageState extends State<HomePage> {
                             "ECGV6",
                             "ECGV11",
                             "Ergo13",
-                            "ErgoCP",
                             "ErgoMET",
-                          ],
-                          onSubmenuClick: (titulo) {
-                            setState(() {
-                              submenuSelecionado = titulo;
-                            });
-                          },
-                        ),
-
-                        Menutile(
-                          titulo: "Atualizadores",
-                          listaSubmenus: [
-                            "ECGV6",
-                            "ECGV11",
-                            "Ergo13",
                             "ErgoCP",
-                            "ErgoMET",
-                          ],
-                          onSubmenuClick: (titulo) {
-                            setState(() {
-                              submenuSelecionado = titulo;
-                            });
-                          },
-                        ),
-
-                        Menutile(
-                          titulo: "Manuais",
-                          listaSubmenus: [
-                            "ECGV6",
-                            "Ergo13",
-                            "ErgoCP",
-                            "ErgoMET",
                           ],
                           onSubmenuClick: (titulo) {
                             setState(() {
@@ -166,10 +133,6 @@ class _HomePageState extends State<HomePage> {
                             "Configuração Inicial",
                             "Assinatura Digital",
                             "Configurações Mínimas",
-                            "Regedit",
-                            "Performance",
-                            "Impressão",
-                            "Pressão Arterial",
                             "Aterramento",
                           ],
                           onSubmenuClick: (titulo) {
@@ -180,27 +143,8 @@ class _HomePageState extends State<HomePage> {
                         ),
 
                         Menutile(
-                          titulo: "Rede",
-                          listaSubmenus: [
-                            "Compartilhamento",
-                            "NETDIR",
-                            "Segurança Elétrica",
-                          ],
-                          onSubmenuClick: (titulo) {
-                            setState(() {
-                              submenuSelecionado = titulo;
-                            });
-                          },
-                        ),
-
-                        Menutile(
                           titulo: "Manutenção",
-                          listaSubmenus: [
-                            "Envio",
-                            "Acompanhamento",
-                            "Prazo",
-                            "Diagnóstico",
-                          ],
+                          listaSubmenus: ["Envio", "Acompanhamento", "Prazo"],
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
@@ -209,12 +153,11 @@ class _HomePageState extends State<HomePage> {
                         ),
 
                         Menutile(
-                          titulo: "Comercial",
+                          titulo: "Contatos",
                           listaSubmenus: [
+                            "Atendimento",
                             "Vendas",
-                            "Upgrade",
-                            "Troca de Equipamento",
-                            "Contato",
+                            "Manutenção"                       
                           ],
                           onSubmenuClick: (titulo) {
                             setState(() {
@@ -228,9 +171,6 @@ class _HomePageState extends State<HomePage> {
                           listaSubmenus: [
                             "Saudação",
                             "Encerramento",
-                            "Atendimento",
-                            "Espera",
-                            "Explicações Técnicas",
                           ],
                           onSubmenuClick: (titulo) {
                             setState(() {
@@ -247,11 +187,11 @@ class _HomePageState extends State<HomePage> {
           ),
           Expanded(
             child: Container(
-              color: const Color.fromARGB(255, 201, 199, 193),
+              color: const Color.fromARGB(255, 202, 217, 235),
               child: Column(
                 children: [
                   Container(
-                    height: 80,
+                    height: 90,
                     color: const Color.fromARGB(255, 255, 255, 255),
                     child: Padding(
                       padding: const EdgeInsets.only(left: 30),
@@ -261,7 +201,7 @@ class _HomePageState extends State<HomePage> {
                         children: [
                           Image.asset("../../assets/images/logo.png"),
                           Text(
-                            "Frases",
+                            submenuSelecionado,
                             style: TextStyle(
                               fontSize: 30,
                               color: const Color(0xFF028FCF),
