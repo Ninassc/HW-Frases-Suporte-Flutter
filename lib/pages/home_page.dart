@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
       final correspondePesquisa = texto.contains(pesquisa.toLowerCase());
       final correspondeSubmenu = frase["subcategoria"] == submenuSelecionado;
       
-      if(submenuSelecionado == "todas"){
+      if(submenuSelecionado == "Todas"){
         return correspondePesquisa;
       }
 
@@ -190,7 +190,7 @@ class _HomePageState extends State<HomePage> {
                           mouseCursor: SystemMouseCursors.click,
                           onTap: () => {
                             setState(() {
-                              submenuSelecionado = "todas";
+                              submenuSelecionado = "Todas";
                             })
                           },
                         )
