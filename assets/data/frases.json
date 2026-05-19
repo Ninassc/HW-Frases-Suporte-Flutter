@@ -76,11 +76,6 @@
   },
   {
     "categoria": "Suporte Remoto",
-    "subcategoria": "TeamViewer",
-    "texto": "Não temos uma licença do AnyDesk para uso comercial. Sugerimos o uso do TeamViewer."
-  },
-  {
-    "categoria": "Suporte Remoto",
     "subcategoria": "Número de Série",
     "texto": "Número de série EC: ECGV6\nNúmero de série EC e inicia com 11: ECGV11-6\nNúmero de série TE: Ergo13\nNúmero de série TP: ErgoCP\nNúmero de série TC: ErgoMET13\nNúmero de série inicia com 200 e é uma caixa metalica: produto da linha 98, não posso dar nenhum tipo de suporte exceto restaurar a base de dados EM UM PRODUTO NOVO (Pode ser nescessario fazer uma conversão)."
   },
