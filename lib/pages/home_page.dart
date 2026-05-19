@@ -40,6 +40,10 @@ class _HomePageState extends State<HomePage> {
       final texto = frase["texto"].toString().toLowerCase();
       final correspondePesquisa = texto.contains(pesquisa.toLowerCase());
       final correspondeSubmenu = frase["subcategoria"] == submenuSelecionado;
+      
+      if(submenuSelecionado == "todas"){
+        return correspondePesquisa;
+      }
 
       return correspondePesquisa && correspondeSubmenu;
     }).toList();
@@ -180,6 +184,16 @@ class _HomePageState extends State<HomePage> {
                             });
                           },
                         ),
+                        ListTile(
+                          contentPadding: EdgeInsets.only(left: 20, right: 40, top: 10),
+                          title: Text("Todas as frases"),
+                          mouseCursor: SystemMouseCursors.click,
+                          onTap: () => {
+                            setState(() {
+                              submenuSelecionado = "todas";
+                            })
+                          },
+                        )
                       ],
                     ),
                   ),

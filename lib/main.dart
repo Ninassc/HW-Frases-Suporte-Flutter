@@ -34,6 +34,10 @@ class MyApp extends StatelessWidget {
           textColor: Colors.white,
           collapsedTextColor: Colors.white,
         ),
+        
+        listTileTheme: ListTileThemeData(
+          textColor: Colors.white,
+        ),
 
         textSelectionTheme: const TextSelectionThemeData(
           selectionColor: Color(0x55028FCF),
