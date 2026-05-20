@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:appfrases/utils/dialog_box.dart';
 import 'package:appfrases/utils/frase_card.dart';
 import 'package:flutter/services.dart';
 import 'package:appfrases/utils/menutile.dart';
@@ -40,15 +41,35 @@ class _HomePageState extends State<HomePage> {
       final texto = frase["texto"].toString().toLowerCase();
       final correspondePesquisa = texto.contains(pesquisa.toLowerCase());
       final correspondeSubmenu = frase["subcategoria"] == submenuSelecionado;
-      
-      if(submenuSelecionado == "Todas"){
+
+      if (submenuSelecionado == "Todas") {
         return correspondePesquisa;
       }
 
       return correspondePesquisa && correspondeSubmenu;
     }).toList();
 
+    final _controller = TextEditingController();
+
     return Scaffold(
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          showDialog(
+            context: context,
+            builder: (context) {
+              return DialogBox(
+                controller: _controller,
+                onSave: () {},
+                onCancel: () => Navigator.of(context).pop(),
+              );
+            },
+          );
+        },
+
+        backgroundColor: const Color(0xFF028FCF),
+        child: Icon(Icons.add, color: Colors.white),
+      ),
+
       body: Row(
         children: [
           Container(
@@ -185,15 +206,19 @@ class _HomePageState extends State<HomePage> {
                           },
                         ),
                         ListTile(
-                          contentPadding: EdgeInsets.only(left: 20, right: 40, top: 10),
+                          contentPadding: EdgeInsets.only(
+                            left: 20,
+                            right: 40,
+                            top: 10,
+                          ),
                           title: Text("Todas as frases"),
                           mouseCursor: SystemMouseCursors.click,
                           onTap: () => {
                             setState(() {
                               submenuSelecionado = "Todas";
-                            })
+                            }),
                           },
-                        )
+                        ),
                       ],
                     ),
                   ),
@@ -258,7 +283,12 @@ class _HomePageState extends State<HomePage> {
 
                   Expanded(
                     child: Padding(
-                      padding: const EdgeInsets.only(left: 30, right: 30, top: 10, bottom: 10),
+                      padding: const EdgeInsets.only(
+                        left: 30,
+                        right: 80,
+                        top: 10,
+                        bottom: 10,
+                      ),
                       child: ListView.builder(
                         itemCount: frasesFiltradas.length,
                         itemBuilder: (context, index) {
