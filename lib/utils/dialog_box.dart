@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 
 class DialogBox extends StatelessWidget {
   final dynamic controller;
-  VoidCallback onSave;
-  VoidCallback onCancel;
+  final VoidCallback onSave;
+  final VoidCallback onCancel;
 
-  DialogBox({
+  const DialogBox({
     super.key,
     required this.controller,
     required this.onSave,
@@ -29,7 +29,7 @@ class DialogBox extends StatelessWidget {
 
               child: TextField(
                 controller: controller,
-                maxLines: 4,
+                maxLines: 6,
 
                 style: const TextStyle(color: Colors.white),
 
