@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:super_clipboard/super_clipboard.dart';
 
 import 'package:appfrases/utils/dialog_box.dart';
 import 'package:appfrases/utils/frase_card.dart';
@@ -18,8 +19,10 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   @override
   void initState() {
+    print("Init");
     super.initState();
     carregarFrases();
+    carregarImagens();
   }
 
   @override
@@ -34,6 +37,8 @@ class _HomePageState extends State<HomePage> {
   String submenuSelecionado = "Atendimento";
   String pesquisa = "";
   List<dynamic> frasesCarregadas = [];
+  String tipoConteudo = "frases";
+  List<dynamic> imagensCarregadas = [];
 
   final TextEditingController categoriaController = TextEditingController();
   final TextEditingController subcategoriaController = TextEditingController();
@@ -68,6 +73,34 @@ class _HomePageState extends State<HomePage> {
     }
   }
 
+  Future<void> carregarImagens() async {
+    print("carregando imagens");
+    final String resposta = await rootBundle.loadString(
+      'assets/data/imagens.json',
+    );
+
+    final List<dynamic> dados = jsonDecode(resposta);
+
+    setState(() {
+      imagensCarregadas = dados;
+      print(imagensCarregadas);
+    });
+  }
+
+  Future<void> copiarImagem(String assetPath) async {
+    final clipboard = SystemClipboard.instance;
+
+    if (clipboard == null) return;
+
+    final bytes = await rootBundle.load(assetPath);
+
+    final item = DataWriterItem();
+
+    item.add(Formats.png(bytes.buffer.asUint8List()));
+
+    await clipboard.write([item]);
+  }
+
   @override
   Widget build(BuildContext context) {
     final frasesFiltradas = frasesCarregadas.where((frase) {
@@ -81,6 +114,13 @@ class _HomePageState extends State<HomePage> {
 
       return correspondePesquisa && correspondeSubmenu;
     }).toList();
+
+    final imagensFiltradas = imagensCarregadas.where((imagem) {
+      return imagem["subcategoria"] == submenuSelecionado;
+    }).toList();
+
+    print(imagensFiltradas.length);
+    print(submenuSelecionado);
 
     Future<void> adicionarFrase() async {
       if (categoriaController.text != "" &&
@@ -175,6 +215,7 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
                             });
                           },
                         ),
@@ -190,6 +231,7 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
                             });
                           },
                         ),
@@ -206,6 +248,7 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
                             });
                           },
                         ),
@@ -222,6 +265,7 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
                             });
                           },
                         ),
@@ -237,6 +281,7 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
                             });
                           },
                         ),
@@ -247,6 +292,7 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
                             });
                           },
                         ),
@@ -261,6 +307,7 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
                             });
                           },
                         ),
@@ -271,6 +318,25 @@ class _HomePageState extends State<HomePage> {
                           onSubmenuClick: (titulo) {
                             setState(() {
                               submenuSelecionado = titulo;
+                              tipoConteudo = "frases";
+                            });
+                          },
+                        ),
+                        Menutile(
+                          titulo: "Imagens",
+                          listaSubmenus: [
+                            "Amplificador / Conectores",
+                            "Cabo Paciente",
+                            "Rabichos",
+                            "Monitorização",
+                            "Energia",
+                            "Gerando PFX",
+                          ],
+
+                          onSubmenuClick: (titulo) {
+                            setState(() {
+                              submenuSelecionado = titulo;
+                              tipoConteudo = "imagens";
                             });
                           },
                         ),
@@ -285,6 +351,7 @@ class _HomePageState extends State<HomePage> {
                           onTap: () => {
                             setState(() {
                               submenuSelecionado = "Todas";
+                              tipoConteudo = "frases";
                             }),
                           },
                         ),
@@ -326,47 +393,130 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
 
-                  Padding(
-                    padding: const EdgeInsets.all(20),
-
-                    child: TextField(
-                      onChanged: (valor) {
-                        setState(() {
-                          pesquisa = valor;
-                        });
-                      },
-
-                      decoration: InputDecoration(
-                        hintText: "Pesquisar frase...",
-                        prefixIcon: const Icon(Icons.search),
-                        //hoverColor: Color.fromARGB(255, 171, 197, 223),
-                        filled: true,
-                        fillColor: Colors.white,
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(12),
-                          borderSide: BorderSide.none,
-                        ),
-                      ),
-                    ),
-                  ),
-
                   Expanded(
-                    child: Padding(
-                      padding: const EdgeInsets.only(
-                        left: 30,
-                        right: 80,
-                        top: 10,
-                        bottom: 10,
-                      ),
-                      child: ListView.builder(
-                        itemCount: frasesFiltradas.length,
-                        itemBuilder: (context, index) {
-                          final frase = frasesFiltradas[index];
+                    child: tipoConteudo == "frases"
+                        ? Column(
+                            children: [
+                              Padding(
+                                padding: const EdgeInsets.all(20),
 
-                          return FraseCard(texto: frase["texto"]);
-                        },
-                      ),
-                    ),
+                                child: TextField(
+                                  onChanged: (valor) {
+                                    setState(() {
+                                      pesquisa = valor;
+                                    });
+                                  },
+
+                                  decoration: InputDecoration(
+                                    hintText: "Pesquisar frase...",
+                                    prefixIcon: const Icon(Icons.search),
+                                    //hoverColor: Color.fromARGB(255, 171, 197, 223),
+                                    filled: true,
+                                    fillColor: Colors.white,
+                                    border: OutlineInputBorder(
+                                      borderRadius: BorderRadius.circular(12),
+                                      borderSide: BorderSide.none,
+                                    ),
+                                  ),
+                                ),
+                              ),
+
+                              Expanded(
+                                child: Padding(
+                                  padding: const EdgeInsets.only(
+                                    left: 30,
+                                    right: 80,
+                                    top: 10,
+                                    bottom: 10,
+                                  ),
+
+                                  child: ListView.builder(
+                                    itemCount: frasesFiltradas.length,
+
+                                    itemBuilder: (context, index) {
+                                      final frase = frasesFiltradas[index];
+
+                                      return FraseCard(texto: frase["texto"]);
+                                    },
+                                  ),
+                                ),
+                              ),
+                            ],
+                          )
+                        : Padding(
+                            padding: const EdgeInsets.only(
+                              left: 30,
+                              right: 80,
+                              top: 10,
+                              bottom: 10,
+                            ),
+
+                            child: GridView.builder(
+                              gridDelegate:
+                                  const SliverGridDelegateWithFixedCrossAxisCount(
+                                    crossAxisCount: 3,
+
+                                    crossAxisSpacing: 10,
+
+                                    mainAxisSpacing: 20,
+
+                                    childAspectRatio: 1,
+                                  ),
+
+                              itemCount: imagensFiltradas.length,
+
+                              itemBuilder: (context, index) {
+                                final imagem = imagensFiltradas[index];
+
+                                print(imagem["imagem"]);
+
+                                return InkWell(
+                                  onTap: () async {
+                                    await copiarImagem(imagem["imagem"]);
+
+                                    ScaffoldMessenger.of(context).showSnackBar(
+                                      SnackBar(
+                                        content: const Text("Imagem copiada!"),
+
+                                        backgroundColor: const Color.fromARGB(
+                                          255,
+                                          125,
+                                          125,
+                                          126,
+                                        ),
+
+                                        duration: const Duration(
+                                          milliseconds: 800,
+                                        ),
+
+                                        behavior: SnackBarBehavior.fixed,
+
+                                        shape: RoundedRectangleBorder(
+                                          borderRadius: BorderRadius.circular(
+                                            12,
+                                          ),
+                                        ),
+                                      ),
+                                    );
+                                  },
+
+                                  child: Card(
+                                    clipBehavior: Clip.antiAlias,
+
+                                    shape: RoundedRectangleBorder(
+                                      borderRadius: BorderRadius.circular(20),
+                                    ),
+
+                                    child: Image.asset(
+                                      imagem["imagem"],
+
+                                      fit: BoxFit.cover,
+                                    ),
+                                  ),
+                                );
+                              },
+                            ),
+                          ),
                   ),
                 ],
               ),

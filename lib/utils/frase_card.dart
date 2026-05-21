@@ -43,7 +43,7 @@ class FraseCard extends StatelessWidget {
 
                       duration: const Duration(milliseconds: 800),
 
-                      behavior: SnackBarBehavior.floating,
+                      behavior: SnackBarBehavior.fixed,
 
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(12),
