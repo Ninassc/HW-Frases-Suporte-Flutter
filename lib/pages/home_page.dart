@@ -1,7 +1,10 @@
 import 'dart:convert';
+import 'dart:io';
+import 'package:flutter/services.dart';
+import 'package:path_provider/path_provider.dart';
+
 import 'package:appfrases/utils/dialog_box.dart';
 import 'package:appfrases/utils/frase_card.dart';
-import 'package:flutter/services.dart';
 import 'package:appfrases/utils/menutile.dart';
 import 'package:flutter/material.dart';
 
@@ -13,26 +16,56 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  String submenuSelecionado = "Atendimento";
-  String pesquisa = "";
-  List<dynamic> frasesCarregadas = [];
-
-  Future<void> carregarFrases() async {
-    final String resposta = await rootBundle.loadString(
-      'assets/data/frases.json',
-    );
-    //print(resposta);
-    final List<dynamic> dados = jsonDecode(resposta);
-
-    setState(() {
-      frasesCarregadas = dados;
-    });
-  }
-
   @override
   void initState() {
     super.initState();
     carregarFrases();
+  }
+
+  @override
+  void dispose() {
+    fraseController.dispose();
+    categoriaController.dispose();
+    subcategoriaController.dispose();
+
+    super.dispose();
+  }
+
+  String submenuSelecionado = "Atendimento";
+  String pesquisa = "";
+  List<dynamic> frasesCarregadas = [];
+
+  final TextEditingController categoriaController = TextEditingController();
+  final TextEditingController subcategoriaController = TextEditingController();
+  final TextEditingController fraseController = TextEditingController();
+
+  Future<File> pegarArquivoJson() async {
+    return File(
+      r'\\hwfs01\Area Publica\Suporte (Disco T)\Suporte\FrasesJsonApp\frases.json',
+    );
+  }
+
+  Future<void> carregarFrases() async {
+    try {
+      final arquivo = await pegarArquivoJson();
+
+      if (!await arquivo.exists()) {
+        final jsonInicial = await rootBundle.loadString(
+          'assets/data/frases.json',
+        );
+        await arquivo.writeAsString(jsonInicial);
+      }
+
+      final conteudo = await arquivo.readAsString();
+
+      final List<dynamic> dados = jsonDecode(conteudo);
+
+      setState(() {
+        frasesCarregadas = dados;
+      });
+    } catch (e) {
+      print("Erro ao carregar frases: $e");
+    }
   }
 
   @override
@@ -49,7 +82,34 @@ class _HomePageState extends State<HomePage> {
       return correspondePesquisa && correspondeSubmenu;
     }).toList();
 
-    final _controller = TextEditingController();
+    Future<void> adicionarFrase() async {
+      if (categoriaController.text != "" &&
+          subcategoriaController.text != "" &&
+          fraseController.text != "") {
+        final novaFrase = {
+          "categoria": categoriaController.text,
+
+          "subcategoria": subcategoriaController.text,
+
+          "texto": fraseController.text,
+        };
+
+        frasesCarregadas.add(novaFrase);
+
+        final arquivo = await pegarArquivoJson();
+        print(arquivo.path);
+
+        await arquivo.writeAsString(jsonEncode(frasesCarregadas));
+
+        setState(() {});
+
+        categoriaController.clear();
+        subcategoriaController.clear();
+        fraseController.clear();
+
+        Navigator.of(context).pop();
+      }
+    }
 
     return Scaffold(
       floatingActionButton: FloatingActionButton(
@@ -58,10 +118,16 @@ class _HomePageState extends State<HomePage> {
             context: context,
             builder: (context) {
               return DialogBox(
-                controller: _controller,
-                onSave: () {},
+                categoriaController: categoriaController,
+                subcategoriaController: subcategoriaController,
+                fraseController: fraseController,
+
+                onSave: () => adicionarFrase(),
+
                 onCancel: () {
-                  _controller.clear();
+                  categoriaController.clear();
+                  subcategoriaController.clear();
+                  fraseController.clear();
                   Navigator.of(context).pop();
                 },
               );
