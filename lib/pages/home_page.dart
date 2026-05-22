@@ -116,7 +116,13 @@ class _HomePageState extends State<HomePage> {
     }).toList();
 
     final imagensFiltradas = imagensCarregadas.where((imagem) {
-      return imagem["subcategoria"] == submenuSelecionado;
+      final correspondeImagem = imagem["subcategoria"] == submenuSelecionado;
+
+      if (submenuSelecionado == "Todas as Imagens") {
+        return true;
+      }
+
+      return correspondeImagem;
     }).toList();
 
     print(imagensFiltradas.length);
@@ -335,6 +341,7 @@ class _HomePageState extends State<HomePage> {
                             "Energia",
                             "Windows Update",
                             "Gerando PFX",
+                            "Todas as Imagens",
                           ],
 
                           onSubmenuClick: (titulo) {
