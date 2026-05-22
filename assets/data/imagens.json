@@ -1,6 +1,6 @@
 [
     {
-        "subcategoria": "Amplificador / Conectores" ,
+        "subcategoria": "Amplificador / Conectores",
         "imagem": "assets/images/Pics/CaixaPré_Traseira.jpg"
     },
     {
@@ -14,5 +14,141 @@
     {
         "subcategoria": "Amplificador / Conectores",
         "imagem": "assets/images/Pics/Hubs USB.jpg"
+    },
+    {
+        "subcategoria": "Amplificador / Conectores",
+        "imagem": "assets/images/Pics/ExtensãoCaboUSB.png"
+    },
+    {
+        "subcategoria": "Cabo Paciente / Rabichos",
+        "imagem": "assets/images/Pics/CaboPacErgo13.jpg"
+    },
+    {
+        "subcategoria": "Cabo Paciente / Rabichos",
+        "imagem": "assets/images/Pics/PosicaoViasCabo10 - VERSO.jpg"
+    },
+    {
+        "subcategoria": "Cabo Paciente / Rabichos",
+        "imagem": "assets/images/Pics/PosicaoViasCabo10.jpg"
+    },
+    {
+        "subcategoria": "Cabo Paciente / Rabichos",
+        "imagem": "assets/images/Pics/PosicaoViasCabo11 - VERSO.jpg"
+    },
+    {
+        "subcategoria": "Cabo Paciente / Rabichos",
+        "imagem": "assets/images/Pics/PosicaoViasCabo11.jpg"
+    },
+    {
+        "subcategoria": "Cabo Paciente / Rabichos",
+        "imagem": "assets/images/Pics/Troca_Rabicho.jpg"
+    },
+    {
+        "subcategoria": "Cabo Paciente / Rabichos",
+        "imagem": "assets/images/Pics/MiniPinch.jpg"
+    },
+    {
+        "subcategoria": "Monitorização",
+        "imagem": "assets/images/Pics/Monitorização.jpg"
+    },
+    {
+        "subcategoria": "Assinatura",
+        "imagem": "assets/images/Pics/AssinaturaDraFulanaDeTal.jpg"
+    },
+    {
+        "subcategoria": "Assinatura",
+        "imagem": "assets/images/Pics/AssinaturaDrFulanoDeTal.jpg"
+    },
+    {
+        "subcategoria": "Registro PA",
+        "imagem": "assets/images/Pics/RegistroPA.png"
+    },
+    {
+        "subcategoria": "Database",
+        "imagem": "assets/images/Pics/DBjáExiste.jpg"
+    },
+    {
+        "subcategoria": "Database",
+        "imagem": "assets/images/Pics/DBJaExistePós_v1038.056.png"
+    },
+    {
+        "subcategoria": "Rede",
+        "imagem": "assets/images/Pics/Rede.png"
+    },
+    {
+        "subcategoria": "Rede",
+        "imagem": "assets/images/Pics/HW_EM_REDE.png"
+    },
+    {
+        "subcategoria": "Energia",
+        "imagem": "assets/images/Pics/Energia01.png"
+    },
+    {
+        "subcategoria": "Energia",
+        "imagem": "assets/images/Pics/Energia02.png"
+    },
+    {
+        "subcategoria": "Energia",
+        "imagem": "assets/images/Pics/Energia03.png"
+    },
+    {
+        "subcategoria": "Windows Update",
+        "imagem": "assets/images/Pics/WindowsUpdates.jpg"
+    },
+    {
+        "subcategoria": "Windows Update",
+        "imagem": "assets/images/Pics/ConfigWinUpdt01.png"
+    },
+    {
+        "subcategoria": "Windows Update",
+        "imagem": "assets/images/Pics/ConfigWinUpdt02.png"
+    },
+    {
+        "subcategoria": "Windows Update",
+        "imagem": "assets/images/Pics/ConfigWinUpdt03.png"
+    },
+    {
+        "subcategoria": "Windows Update",
+        "imagem": "assets/images/Pics/ConfigWinUpdt04.png"
+    },
+    {
+        "subcategoria": "Windows Update",
+        "imagem": "assets/images/Pics/ConfigWinUpdt05.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX01.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX02.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX03.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX04.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX05.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX06.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX07.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX08.png"
+    },
+    {
+        "subcategoria": "Gerando PFX",
+        "imagem": "assets/images/Pics/GerandoPFX09.png"
     }
 ]

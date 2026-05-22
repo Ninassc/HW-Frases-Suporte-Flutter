@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/services.dart';
-import 'package:path_provider/path_provider.dart';
+//import 'package:path_provider/path_provider.dart';
 import 'package:super_clipboard/super_clipboard.dart';
 
 import 'package:appfrases/utils/dialog_box.dart';
@@ -326,10 +326,14 @@ class _HomePageState extends State<HomePage> {
                           titulo: "Imagens",
                           listaSubmenus: [
                             "Amplificador / Conectores",
-                            "Cabo Paciente",
-                            "Rabichos",
+                            "Cabo Paciente / Rabichos",
                             "Monitorização",
+                            "Assinatura",
+                            "Registro PA",
+                            "Database",
+                            "Rede",
                             "Energia",
+                            "Windows Update",
                             "Gerando PFX",
                           ],
 
@@ -471,6 +475,7 @@ class _HomePageState extends State<HomePage> {
                                 print(imagem["imagem"]);
 
                                 return InkWell(
+                                  mouseCursor: SystemMouseCursors.click,
                                   onTap: () async {
                                     await copiarImagem(imagem["imagem"]);
 
@@ -510,7 +515,7 @@ class _HomePageState extends State<HomePage> {
                                     child: Image.asset(
                                       imagem["imagem"],
 
-                                      fit: BoxFit.cover,
+                                      fit: BoxFit.contain,
                                     ),
                                   ),
                                 );
