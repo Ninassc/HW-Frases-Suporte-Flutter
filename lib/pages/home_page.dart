@@ -19,7 +19,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   @override
   void initState() {
-    print("Init");
+    //print("Init");
     super.initState();
     carregarFrases();
     carregarImagens();
@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
     super.dispose();
   }
 
-  String submenuSelecionado = "Atendimento";
+  String submenuSelecionado = "Atendimento Suporte";
   String pesquisa = "";
   List<dynamic> frasesCarregadas = [];
   String tipoConteudo = "frases";
@@ -69,12 +69,12 @@ class _HomePageState extends State<HomePage> {
         frasesCarregadas = dados;
       });
     } catch (e) {
-      print("Erro ao carregar frases: $e");
+      //print("Erro ao carregar frases: $e");
     }
   }
 
   Future<void> carregarImagens() async {
-    print("carregando imagens");
+    //print("carregando imagens");
     final String resposta = await rootBundle.loadString(
       'assets/data/imagens.json',
     );
@@ -83,7 +83,7 @@ class _HomePageState extends State<HomePage> {
 
     setState(() {
       imagensCarregadas = dados;
-      print(imagensCarregadas);
+      //print(imagensCarregadas);
     });
   }
 
@@ -124,8 +124,8 @@ class _HomePageState extends State<HomePage> {
       return correspondeImagem;
     }).toList();
 
-    print(imagensFiltradas.length);
-    print(submenuSelecionado);
+    //print(imagensFiltradas.length);
+    //print(submenuSelecionado);
 
     Future<void> adicionarFrase() async {
       if (categoriaController.text != "" &&
@@ -142,7 +142,7 @@ class _HomePageState extends State<HomePage> {
         frasesCarregadas.add(novaFrase);
 
         final arquivo = await pegarArquivoJson();
-        print(arquivo.path);
+        //print(arquivo.path);
 
         await arquivo.writeAsString(jsonEncode(frasesCarregadas));
 
@@ -478,7 +478,7 @@ class _HomePageState extends State<HomePage> {
                               itemBuilder: (context, index) {
                                 final imagem = imagensFiltradas[index];
 
-                                print(imagem["imagem"]);
+                               //print(imagem["imagem"]);
 
                                 return InkWell(
                                   mouseCursor: SystemMouseCursors.click,
