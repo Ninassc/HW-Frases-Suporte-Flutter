@@ -121,7 +121,6 @@ class _HomePageState extends State<HomePage> {
       if (submenuSelecionado == "Todas as Imagens") {
         return true;
       }
-
       return correspondeImagem;
     }).toList();
 
@@ -211,7 +210,7 @@ class _HomePageState extends State<HomePage> {
                         Menutile(
                           titulo: "Suporte Remoto",
                           listaSubmenus: [
-                            "Atendimento",
+                            "Atendimento Suporte",
                             "TeamViewer",
                             "Número de Série",
                             "Instalação",
